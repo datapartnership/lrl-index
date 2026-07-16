@@ -1,0 +1,11 @@
+dataset_id,hf_language_tag,reason
+sil-ai/bloom-lm,aaa,config_list_fetch_failed
+sil-ai/bloom-captioning,aaa,config_list_fetch_failed
+sil-ai/bloom-vist,aaa,config_list_fetch_failed
+neurlang/ipa-lexicon-4v0-7M,aae,config_list_fetch_failed
+bible-nlp/biblenlp-corpus,aai,config_list_fetch_failed
+jtz18/biblenlp-corpus,aai,config_list_fetch_failed
+timothyhartzog/biblenlp-corpus,aai,config_list_fetch_failed
+bible-nlp/biblenlp-corpus,aak,config_list_fetch_failed
+jtz18/biblenlp-corpus,aak,config_list_fetch_failed
+timothyhartzog/biblenlp-corpus,aak,config_list_fetch_failed

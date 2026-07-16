@@ -1,0 +1,64 @@
+macrolanguage_code,macrolanguage_name,member_count,member_codes,member_names
+aka,Akan,2,fat;twi,Fanti;Twi
+ara,Arabic,28,aao;abh;abv;acm;acq;acw;acx;acy;adf;aeb;aec;afb;apc;apd;arb;arq;ars;ary;arz;auz;avl;ayh;ayl;ayn;ayp;pga;shu;ssh,Algerian Saharan Arabic;Tajiki Arabic;Baharna Arabic;Mesopotamian Arabic;Ta'izzi-Adeni Arabic;Hijazi Arabic;Omani Arabic;Cypriot Arabic;Dhofari Arabic;Tunisian Arabic;Saidi Arabic;Gulf Arabic;Levantine Arabic;Sudanese Arabic;Standard Arabic;Algerian Arabic;Najdi Arabic;Moroccan Arabic;Egyptian Arabic;Uzbeki Arabic;Eastern Egyptian Bedawi Arabic;Hadrami Arabic;Libyan Arabic;Sanaani Arabic;North Mesopotamian Arabic;Sudanese Creole Arabic;Chadian Arabic;Shihhi Arabic
+aym,Aymara,2,ayc;ayr,Southern Aymara;Central Aymara
+aze,Azerbaijani,2,azb;azj,South Azerbaijani;North Azerbaijani
+bal,Baluchi,3,bcc;bgn;bgp,Southern Balochi;Western Balochi;Eastern Balochi
+bik,Bikol,8,bcl;bln;bto;cts;fbl;lbl;rbl;ubl,Central Bikol;Southern Catanduanes Bikol;Rinconada Bikol;Northern Catanduanes Bikol;West Albay Bikol;Libon Bikol;Miraya Bikol;Buhi'non Bikol
+bnc,Bontok,5,ebk;lbk;obk;rbk;vbk,Eastern Bontok;Central Bontok;Southern Bontok;Northern Bontok;Southwestern Bontok
+bua,Buriat,3,bxm;bxr;bxu,Mongolia Buriat;Russia Buriat;China Buriat
+chm,Mari (Russia),2,mhr;mrj,Eastern Mari;Western Mari
+cre,Cree,6,crj;crk;crl;crm;csw;cwd,Southern East Cree;Plains Cree;Northern East Cree;Moose Cree;Swampy Cree;Woods Cree
+del,Delaware,2,umu;unm,Munsee;Unami
+den,Slavey,2,scs;xsl,North Slavey;South Slavey
+din,Dinka,5,dib;dik;dip;diw;dks,South Central Dinka;Southwestern Dinka;Northeastern Dinka;Northwestern Dinka;Southeastern Dinka
+doi,Dogri (macrolanguage),2,dgo;xnr,Dogri (individual language);Kangri
+est,Estonian,2,ekk;vro,Standard Estonian;Võro
+fas,Persian,2,pes;prs,Iranian Persian;Dari
+ful,Fulah,9,ffm;fub;fuc;fue;fuf;fuh;fui;fuq;fuv,Maasina Fulfulde;Adamawa Fulfulde;Pulaar;Borgu Fulfulde;Pular;Western Niger Fulfulde;Bagirmi Fulfulde;Central-Eastern Niger Fulfulde;Nigerian Fulfulde
+gba,Gbaya (Central African Republic),6,bdt;gbp;gbq;gmm;gso;gya,Bokoto;Gbaya-Bossangoa;Gbaya-Bozoum;Gbaya-Mbodomo;Southwest Gbaya;Northwest Gbaya
+gon,Gondi,3,esg;gno;wsg,Aheri Gondi;Northern Gondi;Adilabad Gondi
+grb,Grebo,5,gbo;gec;grj;grv;gry,Northern Grebo;Gboloo Grebo;Southern Grebo;Central Grebo;Barclayville Grebo
+grn,Guarani,5,gnw;gug;gui;gun;nhd,Western Bolivian Guaraní;Paraguayan Guaraní;Eastern Bolivian Guaraní;Mbyá Guaraní;Chiripá
+hai,Haida,2,hax;hdn,Southern Haida;Northern Haida
+hbs,Serbo-Croatian,4,bos;cnr;hrv;srp,Bosnian;Montenegrin;Croatian;Serbian
+hmn,Hmong,25,cqd;hea;hma;hmc;hmd;hme;hmg;hmh;hmi;hmj;hml;hmm;hmp;hmq;hms;hmw;hmy;hmz;hnj;hrm;huj;mmr;muq;mww;sfm,Chuanqiandian Cluster Miao;Northern Qiandong Miao;Southern Mashan Hmong;Central Huishui Hmong;Large Flowery Miao;Eastern Huishui Hmong;Southwestern Guiyang Hmong;Southwestern Huishui Hmong;Northern Huishui Hmong;Ge;Luopohe Hmong;Central Mashan Hmong;Northern Mashan Hmong;Eastern Qiandong Miao;Southern Qiandong Miao;Western Mashan Hmong;Southern Guiyang Hmong;Hmong Shua;Hmong Njua;Horned Miao;Northern Guiyang Hmong;Western Xiangxi Miao;Eastern Xiangxi Miao;Hmong Daw;Small Flowery Miao
+iku,Inuktitut,2,ike;ikt,Eastern Canadian Inuktitut;Inuinnaqtun
+ipk,Inupiaq,2,esi;esk,North Alaskan Inupiatun;Northwest Alaska Inupiatun
+jrb,Judeo-Arabic,4,aju;jye;yhd;yud,Judeo-Moroccan Arabic;Judeo-Yemeni Arabic;Judeo-Iraqi Arabic;Judeo-Tripolitanian Arabic
+kau,Kanuri,3,kby;knc;krt,Manga Kanuri;Central Kanuri;Tumari Kanuri
+kln,Kalenjin,9,enb;eyo;niq;oki;pko;sgc;spy;tec;tuy,Markweeta;Keiyo;Nandi;Okiek;Pökoot;Kipsigis;Sabaot;Terik;Tugen
+kok,Konkani (macrolanguage),2,gom;knn,Goan Konkani;Konkani (individual language)
+kom,Komi,2,koi;kpv,Komi-Permyak;Komi-Zyrian
+kon,Kongo,3,kng;kwy;ldi,Koongo;San Salvador Kongo;Laari
+kpe,Kpelle,2,gkp;xpe,Guinea Kpelle;Liberia Kpelle
+kur,Kurdish,3,ckb;kmr;sdh,Central Kurdish;Northern Kurdish;Southern Kurdish
+lah,Lahnda,7,hnd;hno;jat;phr;pnb;skr;xhe,Southern Hindko;Northern Hindko;Jakati;Pahari-Potwari;Western Panjabi;Saraiki;Khetrani
+lav,Latvian,2,ltg;lvs,Latgalian;Standard Latvian
+luy,Luyia,14,bxk;ida;lkb;lko;lks;lri;lrm;lsm;lto;lts;lwg;nle;nyd;rag,Bukusu;Idakho-Isukha-Tiriki;Kabras;Khayo;Kisa;Marachi;Marama;Saamia;Tsotso;Tachoni;Wanga;East Nyala;Nyore;Logooli
+man,Mandingo,6,emk;mku;mlq;mnk;msc;mwk,Eastern Maninkakan;Konyanka Maninka;Western Maninkakan;Mandinka;Sankaran Maninka;Kita Maninkakan
+mlg,Malagasy,11,bhr;bmm;bzc;msh;plt;skg;tdx;tkg;txy;xmv;xmw,Bara Malagasy;Northern Betsimisaraka Malagasy;Southern Betsimisaraka Malagasy;Masikoro Malagasy;Plateau Malagasy;Sakalava Malagasy;Tandroy-Mahafaly Malagasy;Tesaka Malagasy;Tanosy Malagasy;Antankarana Malagasy;Tsimihety Malagasy
+mon,Mongolian,2,khk;mvf,Halh Mongolian;Peripheral Mongolian
+msa,Malay (macrolanguage),36,bjn;btj;bve;bvu;coa;dup;hji;ind;jak;jax;kvb;kvr;kxd;lce;lcf;liw;max;meo;mfa;mfb;min;mqg;msi;mui;orn;ors;pel;pse;tmw;urk;vkk;vkt;xmm;zlm;zmi;zsm,Banjar;Bacanese Malay;Berau Malay;Bukit Malay;Cocos Islands Malay;Duano;Haji;Indonesian;Jakun;Jambi Malay;Kubu;Kerinci;Brunei;Loncong;Lubu;Col;North Moluccan Malay;Kedah Malay;Pattani Malay;Bangka;Minangkabau;Kota Bangun Kutai Malay;Sabah Malay;Musi;Orang Kanaq;Orang Seletar;Pekal;Central Malay;Temuan;Urak Lawoi';Kaur;Tenggarong Kutai Malay;Manado Malay;Malay (individual language);Negeri Sembilan Malay;Standard Malay
+mwr,Marwari,6,dhd;mtr;mve;rwr;swv;wry,Dhundari;Mewari;Marwari (Pakistan);Marwari (India);Shekhawati;Merwari
+nep,Nepali (macrolanguage),2,dty;npi,Dotyali;Nepali (individual language)
+nor,Norwegian,2,nno;nob,Norwegian Nynorsk;Norwegian Bokmål
+oji,Ojibwa,7,ciw;ojb;ojc;ojg;ojs;ojw;otw,Chippewa;Northwestern Ojibwa;Central Ojibwa;Eastern Ojibwa;Severn Ojibwa;Western Ojibwa;Ottawa
+ori,Oriya (macrolanguage),2,ory;spv,Odia;Sambalpuri
+orm,Oromo,4,gax;gaz;hae;orc,Borana-Arsi-Guji Oromo;West Central Oromo;Eastern Oromo;Orma
+pus,Pushto,3,pbt;pbu;pst,Southern Pashto;Northern Pashto;Central Pashto
+que,Quechua,43,qub;qud;quf;qug;quh;quk;qul;qup;qur;qus;quw;qux;quy;quz;qva;qvc;qve;qvh;qvi;qvj;qvl;qvm;qvn;qvo;qvp;qvs;qvw;qvz;qwa;qwc;qwh;qws;qxa;qxc;qxh;qxl;qxn;qxo;qxp;qxr;qxt;qxu;qxw,Huallaga Huánuco Quechua;Calderón Highland Quichua;Lambayeque Quechua;Chimborazo Highland Quichua;South Bolivian Quechua;Chachapoyas Quechua;North Bolivian Quechua;Southern Pastaza Quechua;Yanahuanca Pasco Quechua;Santiago del Estero Quichua;Tena Lowland Quichua;Yauyos Quechua;Ayacucho Quechua;Cusco Quechua;Ambo-Pasco Quechua;Cajamarca Quechua;Eastern Apurímac Quechua;Huamalíes-Dos de Mayo Huánuco Quechua;Imbabura Highland Quichua;Loja Highland Quichua;Cajatambo North Lima Quechua;Margos-Yarowilca-Lauricocha Quechua;North Junín Quechua;Napo Lowland Quechua;Pacaraos Quechua;San Martín Quechua;Huaylla Wanca Quechua;Northern Pastaza Quichua;Corongo Ancash Quechua;Classical Quechua;Huaylas Ancash Quechua;Sihuas Ancash Quechua;Chiquián Ancash Quechua;Chincha Quechua;Panao Huánuco Quechua;Salasaca Highland Quichua;Northern Conchucos Ancash Quechua;Southern Conchucos Ancash Quechua;Puno Quechua;Cañar Highland Quichua;Santa Ana de Tusi Pasco Quechua;Arequipa-La Unión Quechua;Jauja Wanca Quechua
+raj,Rajasthani,6,bgq;gda;gju;hoj;mup;wbr,Bagri;Gade Lohar;Gujari;Hadothi;Malvi;Wagdi
+rom,Romany,7,rmc;rmf;rml;rmn;rmo;rmw;rmy,Carpathian Romani;Kalo Finnish Romani;Baltic Romani;Balkan Romani;Sinte Romani;Welsh Romani;Vlax Romani
+san,Sanskrit,2,cls;vsn,Classical Sanskrit;Vedic Sanskrit
+sqi,Albanian,4,aae;aat;aln;als,Arbëreshë Albanian;Arvanitika Albanian;Gheg Albanian;Tosk Albanian
+srd,Sardinian,4,sdc;sdn;src;sro,Sassarese Sardinian;Gallurese Sardinian;Logudorese Sardinian;Campidanese Sardinian
+swa,Swahili (macrolanguage),2,swc;swh,Congo Swahili;Swahili (individual language)
+syr,Syriac,2,aii;cld,Assyrian Neo-Aramaic;Chaldean Neo-Aramaic
+tmh,Tamashek,4,taq;thv;thz;ttq,Tamasheq;Tahaggart Tamahaq;Tayart Tamajeq;Tawallammat Tamajaq
+uzb,Uzbek,2,uzn;uzs,Northern Uzbek;Southern Uzbek
+yid,Yiddish,2,ydd;yih,Eastern Yiddish;Western Yiddish
+zap,Zapotec,58,zaa;zab;zac;zad;zae;zaf;zai;zam;zao;zaq;zar;zas;zat;zav;zaw;zax;zca;zcd;zoo;zpa;zpb;zpc;zpd;zpe;zpf;zpg;zph;zpi;zpj;zpk;zpl;zpm;zpn;zpo;zpp;zpq;zpr;zps;zpt;zpu;zpv;zpw;zpx;zpy;zpz;zsr;zte;ztg;ztl;ztm;ztn;ztp;ztq;zts;ztt;ztu;ztx;zty,Sierra de Juárez Zapotec;Western Tlacolula Valley Zapotec;Ocotlán Zapotec;Cajonos Zapotec;Yareni Zapotec;Ayoquesco Zapotec;Isthmus Zapotec;Miahuatlán Zapotec;Ozolotepec Zapotec;Aloápam Zapotec;Rincón Zapotec;Santo Domingo Albarradas Zapotec;Tabaa Zapotec;Yatzachi Zapotec;Mitla Zapotec;Xadani Zapotec;Coatecas Altas Zapotec;Las Delicias Zapotec;Asunción Mixtepec Zapotec;Lachiguiri Zapotec;Yautepec Zapotec;Choapan Zapotec;Southeastern Ixtlán Zapotec;Petapa Zapotec;San Pedro Quiatoni Zapotec;Guevea De Humboldt Zapotec;Totomachapan Zapotec;Santa María Quiegolani Zapotec;Quiavicuzas Zapotec;Tlacolulita Zapotec;Lachixío Zapotec;Mixtepec Zapotec;Santa Inés Yatzechi Zapotec;Amatlán Zapotec;El Alto Zapotec;Zoogocho Zapotec;Santiago Xanica Zapotec;Coatlán Zapotec;San Vicente Coatlán Zapotec;Yalálag Zapotec;Chichicapan Zapotec;Zaniza Zapotec;San Baltazar Loxicha Zapotec;Mazaltepec Zapotec;Texmelucan Zapotec;Southern Rincon Zapotec;Elotepec Zapotec;Xanaguía Zapotec;Lapaguía-Guivini Zapotec;San Agustín Mixtepec Zapotec;Santa Catarina Albarradas Zapotec;Loxicha Zapotec;Quioquitani-Quierí Zapotec;Tilquiapan Zapotec;Tejalapan Zapotec;Güilá Zapotec;Zaachila Zapotec;Yatee Zapotec
+zha,Zhuang,16,zch;zeh;zgb;zgm;zgn;zhd;zhn;zlj;zln;zlq;zqe;zyb;zyg;zyj;zyn;zzj,Central Hongshuihe Zhuang;Eastern Hongshuihe Zhuang;Guibei Zhuang;Minz Zhuang;Guibian Zhuang;Dai Zhuang;Nong Zhuang;Liujiang Zhuang;Lianshan Zhuang;Liuqian Zhuang;Qiubei Zhuang;Yongbei Zhuang;Yang Zhuang;Youjiang Zhuang;Yongnan Zhuang;Zuojiang Zhuang
+zho,Chinese,18,cdo;cjy;cmn;cnp;cpx;csp;czh;czo;gan;hak;hnm;hsn;luh;lzh;mnp;sjc;wuu;yue,Min Dong Chinese;Jinyu Chinese;Mandarin Chinese;Northern Ping Chinese;Pu-Xian Chinese;Southern Ping Chinese;Huizhou Chinese;Min Zhong Chinese;Gan Chinese;Hakka Chinese;Hainanese;Xiang Chinese;Leizhou Chinese;Literary Chinese;Min Bei Chinese;Shaojiang Chinese;Wu Chinese;Yue Chinese
+zza,Zaza,2,diq;kiu,Dimli (individual language);Kirmanjki (individual language)
