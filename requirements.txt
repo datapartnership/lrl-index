@@ -1,4 +1,4 @@
 pandas>=2.0.0
-langcodes>=3.5.0
+langcodes>=3.5.1
 language-data>=1.2.0
 requests>=2.31.0
