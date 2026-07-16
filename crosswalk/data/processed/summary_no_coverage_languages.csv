@@ -1,0 +1,33 @@
+iso_639_3,language_name,is_macrolanguage,matched_fineweb2,matched_huggingface,matched_commonvoice,num_sources_matched,any_match_via_iso639_2,matched_sources_label
+cxh,Cha'ari,False,False,False,False,0,False,NONE
+dsk,Dokshi,False,False,False,False,0,False,NONE
+dyl,Bhutanese Sign Language,False,False,False,False,0,False,NONE
+dyr,Dyarim,False,False,False,False,0,False,NONE
+dzd,Daza,False,False,False,False,0,False,NONE
+eud,Eudeve,False,False,False,False,0,False,NONE
+hnm,Hainanese,False,False,False,False,0,False,NONE
+ikh,Ikhin-Arokho,False,False,False,False,0,False,NONE
+izm,Kizamani,False,False,False,False,0,False,NONE
+lfb,Buu (Cameroon),False,False,False,False,0,False,NONE
+lgs,Guinea-Bissau Sign Language,False,False,False,False,0,False,NONE
+luh,Leizhou Chinese,False,False,False,False,0,False,NONE
+lvl,Lwel,False,False,False,False,0,False,NONE
+,Min Nan Chinese,False,False,False,False,0,False,NONE
+nzr,Dir-Nyamzak-Mbarimi,False,False,False,False,0,False,NONE
+oak,Noakhali,False,False,False,False,0,False,NONE
+olb,Oli-Bodiman,False,False,False,False,0,False,NONE
+osd,Digor Ossetic,False,False,False,False,0,False,NONE
+pze,Pesse,False,False,False,False,0,False,NONE
+rrm,Moriori,False,False,False,False,0,False,NONE
+scz,Shaetlan,False,False,False,False,0,False,NONE
+sjc,Shaojiang Chinese,False,False,False,False,0,False,NONE
+tvg,Tugunese,False,False,False,False,0,False,NONE
+tvi,Tulai,False,False,False,False,0,False,NONE
+uly,Buli,False,False,False,False,0,False,NONE
+vjk,Bajjika,False,False,False,False,0,False,NONE
+wtb,Matambwe,False,False,False,False,0,False,NONE
+ycr,Yilan Creole,False,False,False,False,0,False,NONE
+ykh,Khamnigan Mongol,False,False,False,False,0,False,NONE
+ynb,Yamben,False,False,False,False,0,False,NONE
+zhk,Kurdish Sign Language,False,False,False,False,0,False,NONE
+zlu,Zul,False,False,False,False,0,False,NONE

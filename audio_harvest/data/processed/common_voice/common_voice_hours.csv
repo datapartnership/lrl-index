@@ -1,0 +1,446 @@
+iso_639_3,cv_locale,source,category,hours,validated_hours_only,clips,speakers,license_tier,license,corpus_version,source_type,who_transcribed,transcript_exists
+aat,aat,common_voice_spontaneous,transcribed,0.0,0.0,334,5,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+aat,aat,common_voice_spontaneous,untranscribed,2.3,,334,5,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+abb,abb,common_voice_scripted,transcribed,11.24,11.19,7922,22,A,CC0-1.0,26.0,website text,human volunteer,True
+abk,ab,common_voice_scripted,transcribed,242.62,207.81,158612,1302,A,CC0-1.0,26.0,website text,human volunteer,True
+abq,abq,common_voice_scripted,transcribed,16.23,4.99,8215,21,A,CC0-1.0,26.0,website text,human volunteer,True
+ady,ady,common_voice_scripted,transcribed,94.26,78.67,63508,168,A,CC0-1.0,26.0,website text,human volunteer,True
+ady,ady,common_voice_spontaneous,transcribed,4.67,4.67,836,27,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+ady,ady,common_voice_spontaneous,untranscribed,1.04,,836,27,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+afr,af,common_voice_scripted,transcribed,1.65,0.76,980,67,A,CC0-1.0,26.0,website text,human volunteer,True
+ajg,ajg,common_voice_scripted,transcribed,12.87,12.71,19398,23,A,CC0-1.0,26.0,website text,human volunteer,True
+aln,aln,common_voice_spontaneous,transcribed,10.49,10.49,1654,14,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+aln,aln,common_voice_spontaneous,untranscribed,0.3699999999999992,,1654,14,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+amh,am,common_voice_scripted,transcribed,2.92,1.92,1658,51,A,CC0-1.0,26.0,website text,human volunteer,True
+amh,am,common_voice_spontaneous,transcribed,0.0,0.0,1,1,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+amh,am,common_voice_spontaneous,untranscribed,0.0,,1,1,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+ara,ar,common_voice_scripted,transcribed,157.46,92.0,136185,1669,A,CC0-1.0,26.0,website text,human volunteer,True
+arg,an,common_voice_scripted,transcribed,17.83,16.86,14040,53,A,CC0-1.0,26.0,website text,human volunteer,True
+arg,an,common_voice_spontaneous,transcribed,0.21,0.21,240,3,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+arg,an,common_voice_spontaneous,untranscribed,1.6400000000000001,,240,3,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+asm,as,common_voice_scripted,transcribed,7.68,3.0,4729,51,A,CC0-1.0,26.0,website text,human volunteer,True
+ast,ast,common_voice_scripted,transcribed,2.1,1.05,1720,34,A,CC0-1.0,26.0,website text,human volunteer,True
+aze,az,common_voice_scripted,transcribed,1.56,0.65,1036,48,A,CC0-1.0,26.0,website text,human volunteer,True
+bag,bag,common_voice_scripted,transcribed,11.12,11.0,7106,14,A,CC0-1.0,26.0,website text,human volunteer,True
+bak,ba,common_voice_scripted,transcribed,268.71,258.81,218518,930,A,CC0-1.0,26.0,website text,human volunteer,True
+bak,ba,common_voice_spontaneous,transcribed,0.01,0.01,127,4,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+bak,ba,common_voice_spontaneous,untranscribed,0.24,,127,4,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+bas,bas,common_voice_scripted,transcribed,13.56,12.09,12496,57,A,CC0-1.0,26.0,website text,human volunteer,True
+bas,bas,common_voice_spontaneous,transcribed,5.06,5.06,773,11,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+bas,bas,common_voice_spontaneous,untranscribed,0.3100000000000005,,773,11,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+bax,bax,common_voice_scripted,transcribed,11.83,10.62,8668,13,A,CC0-1.0,26.0,website text,human volunteer,True
+bba,bba,common_voice_scripted,transcribed,14.38,10.57,8531,14,A,CC0-1.0,26.0,website text,human volunteer,True
+bbj,bbj,common_voice_scripted,transcribed,12.75,12.29,7514,31,A,CC0-1.0,26.0,website text,human volunteer,True
+bbl,bbl,common_voice_scripted,transcribed,12.16,11.17,4982,23,A,CC0-1.0,26.0,website text,human volunteer,True
+bce,bce,common_voice_scripted,transcribed,10.05,10.01,6141,14,A,CC0-1.0,26.0,website text,human volunteer,True
+bci,bci,common_voice_scripted,transcribed,14.35,11.26,7167,18,A,CC0-1.0,26.0,website text,human volunteer,True
+beb,beb,common_voice_scripted,transcribed,11.09,10.01,7471,33,A,CC0-1.0,26.0,website text,human volunteer,True
+bel,be,common_voice_scripted,transcribed,1892.71,1818.27,1421375,8621,A,CC0-1.0,26.0,website text,human volunteer,True
+ben,bn,common_voice_scripted,transcribed,1277.5,54.32,1052178,23010,A,CC0-1.0,26.0,website text,human volunteer,True
+bew,bew,common_voice_spontaneous,transcribed,9.78,9.78,1336,21,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+bew,bew,common_voice_spontaneous,untranscribed,0.7100000000000009,,1336,21,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+bfd,bfd,common_voice_scripted,transcribed,11.18,10.05,7178,36,A,CC0-1.0,26.0,website text,human volunteer,True
+bft,bft,common_voice_scripted,transcribed,17.36,16.56,10547,155,A,CC0-1.0,26.0,website text,human volunteer,True
+bgp,bgp,common_voice_scripted,transcribed,12.81,11.5,8512,29,A,CC0-1.0,26.0,website text,human volunteer,True
+bkh,bkh,common_voice_scripted,transcribed,13.29,9.98,7480,13,A,CC0-1.0,26.0,website text,human volunteer,True
+bkm,bkm,common_voice_scripted,transcribed,11.74,11.41,7796,27,A,CC0-1.0,26.0,website text,human volunteer,True
+bnm,bnm,common_voice_scripted,transcribed,15.82,15.3,7943,21,A,CC0-1.0,26.0,website text,human volunteer,True
+bnn,bnn,common_voice_scripted,transcribed,11.64,10.29,8235,20,A,CC0-1.0,26.0,website text,human volunteer,True
+bre,br,common_voice_scripted,transcribed,37.08,34.2,40435,294,A,CC0-1.0,26.0,website text,human volunteer,True
+bre,br,common_voice_spontaneous,transcribed,0.22,0.22,305,20,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+bre,br,common_voice_spontaneous,untranscribed,0.8700000000000001,,305,20,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+brh,brh,common_voice_scripted,transcribed,9.93,9.91,5095,18,A,CC0-1.0,26.0,website text,human volunteer,True
+bri,bri,common_voice_scripted,transcribed,10.8,10.41,9175,15,A,CC0-1.0,26.0,website text,human volunteer,True
+brx,brx,common_voice_spontaneous,transcribed,0.02,0.02,69,1,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+brx,brx,common_voice_spontaneous,untranscribed,0.039999999999999994,,69,1,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+bsh,bsh,common_voice_scripted,transcribed,10.0,9.89,6844,14,A,CC0-1.0,26.0,website text,human volunteer,True
+bsk,bsk,common_voice_scripted,transcribed,11.01,10.2,9302,27,A,CC0-1.0,26.0,website text,human volunteer,True
+bsy,bsy,common_voice_spontaneous,transcribed,0.0,0.0,1741,25,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+bsy,bsy,common_voice_spontaneous,untranscribed,10.8,,1741,25,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+btv,btv,common_voice_scripted,transcribed,10.46,10.26,9283,16,A,CC0-1.0,26.0,website text,human volunteer,True
+bul,bg,common_voice_scripted,transcribed,21.71,17.49,14290,152,A,CC0-1.0,26.0,website text,human volunteer,True
+bum,bum,common_voice_scripted,transcribed,10.29,10.05,7957,22,A,CC0-1.0,26.0,website text,human volunteer,True
+bxk,bxk,common_voice_spontaneous,transcribed,11.03,11.03,3214,27,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+bxk,bxk,common_voice_spontaneous,untranscribed,4.84,,3214,27,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+byv,byv,common_voice_scripted,transcribed,13.24,13.24,7719,96,A,CC0-1.0,26.0,website text,human volunteer,True
+cat,ca,common_voice_scripted,transcribed,3918.14,3379.83,2716606,36956,A,CC0-1.0,26.0,website text,human volunteer,True
+cat,ca,common_voice_spontaneous,transcribed,0.52,0.52,160,19,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+cat,ca,common_voice_spontaneous,untranscribed,0.18999999999999995,,160,19,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+cdo,cdo,common_voice_spontaneous,transcribed,0.91,0.91,1034,32,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+cdo,cdo,common_voice_spontaneous,untranscribed,8.85,,1034,32,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+ces,cs,common_voice_scripted,transcribed,269.0,81.52,217094,1142,A,CC0-1.0,26.0,website text,human volunteer,True
+cgg,cgg,common_voice_spontaneous,transcribed,10.18,10.18,3085,27,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+cgg,cgg,common_voice_spontaneous,untranscribed,1.5099999999999998,,3085,27,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+chv,cv,common_voice_scripted,transcribed,28.64,24.52,20456,122,A,CC0-1.0,26.0,website text,human volunteer,True
+cjk,cjk,common_voice_scripted,transcribed,13.89,11.96,8519,45,A,CC0-1.0,26.0,website text,human volunteer,True
+ckb,ckb,common_voice_scripted,transcribed,194.64,137.9,170972,2038,A,CC0-1.0,26.0,website text,human volunteer,True
+cnh,cnh,common_voice_scripted,transcribed,6.04,2.4,6188,301,A,CC0-1.0,26.0,website text,human volunteer,True
+cor,kw,common_voice_scripted,transcribed,12.89,12.37,11264,10,A,CC0-1.0,26.0,website text,human volunteer,True
+cpx,cpx,common_voice_spontaneous,transcribed,0.03,0.03,2007,29,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+cpx,cpx,common_voice_spontaneous,untranscribed,10.63,,2007,29,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+cpy,cpy,common_voice_scripted,transcribed,10.15,10.02,8272,15,A,CC0-1.0,26.0,website text,human volunteer,True
+cut,cut,common_voice_scripted,transcribed,10.34,10.09,5616,15,A,CC0-1.0,26.0,website text,human volunteer,True
+cux,cux,common_voice_scripted,transcribed,10.64,10.26,9350,11,A,CC0-1.0,26.0,website text,human volunteer,True
+cym,cy,common_voice_scripted,transcribed,158.66,124.15,116157,1936,A,CC0-1.0,26.0,website text,human volunteer,True
+cym,cy,common_voice_spontaneous,transcribed,0.0,0.0,17,4,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+cym,cy,common_voice_spontaneous,untranscribed,0.21,,17,4,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+dag,dag,common_voice_scripted,transcribed,27.55,16.28,23096,69,A,CC0-1.0,26.0,website text,human volunteer,True
+dan,da,common_voice_scripted,transcribed,16.2,13.0,14327,302,A,CC0-1.0,26.0,website text,human volunteer,True
+dan,da,common_voice_spontaneous,transcribed,0.0,0.0,2,2,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+dan,da,common_voice_spontaneous,untranscribed,0.0,,2,2,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+dar,dar,common_voice_scripted,transcribed,19.91,15.34,12616,44,A,CC0-1.0,26.0,website text,human volunteer,True
+dav,dav,common_voice_scripted,transcribed,55.95,9.31,49630,24,A,CC0-1.0,26.0,website text,human volunteer,True
+deu,de,common_voice_scripted,transcribed,1489.78,1392.36,1018452,20529,A,CC0-1.0,26.0,website text,human volunteer,True
+deu,de,common_voice_spontaneous,transcribed,0.2,0.2,319,28,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+deu,de,common_voice_spontaneous,untranscribed,1.01,,319,28,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+div,dv,common_voice_scripted,transcribed,61.65,37.84,43351,393,A,CC0-1.0,26.0,website text,human volunteer,True
+dmk,dmk,common_voice_scripted,transcribed,10.31,10.18,10779,10,A,CC0-1.0,26.0,website text,human volunteer,True
+dml,dml,common_voice_scripted,transcribed,10.83,10.22,6482,5,A,CC0-1.0,26.0,website text,human volunteer,True
+dru,dru,common_voice_scripted,transcribed,10.55,10.36,6693,20,A,CC0-1.0,26.0,website text,human volunteer,True
+dsb,dsb,common_voice_scripted,transcribed,0.03,0.0,20,3,A,CC0-1.0,26.0,website text,human volunteer,True
+dua,dua,common_voice_scripted,transcribed,14.44,12.52,8095,13,A,CC0-1.0,26.0,website text,human volunteer,True
+dyu,dyu,common_voice_scripted,transcribed,0.51,0.37,295,35,A,CC0-1.0,26.0,website text,human volunteer,True
+ebr,ebr,common_voice_scripted,transcribed,2.33,1.78,2019,7,A,CC0-1.0,26.0,website text,human volunteer,True
+eko,eko,common_voice_scripted,transcribed,8.43,8.27,4026,7,A,CC0-1.0,26.0,website text,human volunteer,True
+ell,el,common_voice_scripted,transcribed,33.89,20.2,29402,454,A,CC0-1.0,26.0,website text,human volunteer,True
+eng,en,common_voice_scripted,transcribed,3780.95,2784.88,2583051,100172,A,CC0-1.0,26.0,website text,human volunteer,True
+eng,en,common_voice_spontaneous,transcribed,7.81,7.81,5679,609,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+eng,en,common_voice_spontaneous,untranscribed,9.77,,5679,609,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+epo,eo,common_voice_scripted,transcribed,1949.85,1443.34,1154176,1902,A,CC0-1.0,26.0,website text,human volunteer,True
+epo,eo,common_voice_spontaneous,transcribed,0.05,0.05,97,4,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+epo,eo,common_voice_spontaneous,untranscribed,0.7799999999999999,,97,4,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+est,et,common_voice_scripted,transcribed,66.97,51.69,35898,1069,A,CC0-1.0,26.0,website text,human volunteer,True
+esu,esu,common_voice_scripted,transcribed,7.62,7.62,7224,4,A,CC0-1.0,26.0,website text,human volunteer,True
+eto,eto,common_voice_scripted,transcribed,9.9,9.45,11063,26,A,CC0-1.0,26.0,website text,human volunteer,True
+eus,eu,common_voice_scripted,transcribed,702.21,472.66,464843,11052,A,CC0-1.0,26.0,website text,human volunteer,True
+ewo,ewo,common_voice_scripted,transcribed,14.36,13.61,7991,31,A,CC0-1.0,26.0,website text,human volunteer,True
+fan,fan,common_voice_scripted,transcribed,9.87,9.41,8078,43,A,CC0-1.0,26.0,website text,human volunteer,True
+fas,fa,common_voice_scripted,transcribed,430.86,373.24,394397,4660,A,CC0-1.0,26.0,website text,human volunteer,True
+fin,fi,common_voice_scripted,transcribed,23.02,15.76,17905,251,A,CC0-1.0,26.0,website text,human volunteer,True
+fmp,fmp,common_voice_scripted,transcribed,12.23,11.38,5599,32,A,CC0-1.0,26.0,website text,human volunteer,True
+fra,fr,common_voice_scripted,transcribed,1216.01,1102.27,868857,21082,A,CC0-1.0,26.0,website text,human volunteer,True
+fra,fr,common_voice_spontaneous,transcribed,0.62,0.62,667,49,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+fra,fr,common_voice_spontaneous,untranscribed,1.52,,667,49,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+fry,fy-NL,common_voice_scripted,transcribed,215.36,70.49,159762,2105,A,CC0-1.0,26.0,website text,human volunteer,True
+fry,fy-NL,common_voice_spontaneous,transcribed,0.0,0.0,3,1,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+fry,fy-NL,common_voice_spontaneous,untranscribed,0.01,,3,1,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+fub,fub,common_voice_scripted,transcribed,13.35,12.95,7924,19,A,CC0-1.0,26.0,website text,human volunteer,True
+fue,fue,common_voice_scripted,transcribed,10.75,10.58,7265,10,A,CC0-1.0,26.0,website text,human volunteer,True
+gej,gej,common_voice_scripted,transcribed,11.38,11.14,16773,20,A,CC0-1.0,26.0,website text,human volunteer,True
+ggg,ggg,common_voice_scripted,transcribed,12.27,7.4,11080,24,A,CC0-1.0,26.0,website text,human volunteer,True
+gid,gid,common_voice_scripted,transcribed,10.33,9.93,5314,16,A,CC0-1.0,26.0,website text,human volunteer,True
+gig,gig,common_voice_scripted,transcribed,10.1,10.08,12159,20,A,CC0-1.0,26.0,website text,human volunteer,True
+giz,giz,common_voice_scripted,transcribed,10.28,10.05,6648,32,A,CC0-1.0,26.0,website text,human volunteer,True
+gjk,gjk,common_voice_scripted,transcribed,10.97,10.75,8724,23,A,CC0-1.0,26.0,website text,human volunteer,True
+gju,gju,common_voice_scripted,transcribed,10.67,10.07,11741,7,A,CC0-1.0,26.0,website text,human volunteer,True
+gle,ga-IE,common_voice_scripted,transcribed,16.38,14.26,15381,281,A,CC0-1.0,26.0,website text,human volunteer,True
+gle,ga-IE,common_voice_spontaneous,transcribed,0.01,0.01,36,4,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+gle,ga-IE,common_voice_spontaneous,untranscribed,0.13999999999999999,,36,4,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+glg,gl,common_voice_scripted,transcribed,402.12,331.85,290150,6602,A,CC0-1.0,26.0,website text,human volunteer,True
+glg,gl,common_voice_spontaneous,transcribed,3.12,3.12,2062,109,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+glg,gl,common_voice_spontaneous,untranscribed,1.8499999999999996,,2062,109,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+glv,gv,common_voice_scripted,transcribed,10.58,10.12,6590,9,A,CC0-1.0,26.0,website text,human volunteer,True
+glv,gv,common_voice_spontaneous,transcribed,0.0,0.0,130,1,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+glv,gv,common_voice_spontaneous,untranscribed,0.76,,130,1,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+grn,gn,common_voice_scripted,transcribed,33.02,5.15,25864,314,A,CC0-1.0,26.0,website text,human volunteer,True
+gsw,gsw,common_voice_scripted,transcribed,1.78,0.78,1124,43,A,CC0-1.0,26.0,website text,human volunteer,True
+gsw,gsw,common_voice_spontaneous,transcribed,0.55,0.55,1254,79,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+gsw,gsw,common_voice_spontaneous,untranscribed,7.500000000000001,,1254,79,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+gwc,gwc,common_voice_scripted,transcribed,15.36,11.64,9788,22,A,CC0-1.0,26.0,website text,human volunteer,True
+gwt,gwt,common_voice_scripted,transcribed,12.29,12.2,7738,5,A,CC0-1.0,26.0,website text,human volunteer,True
+gya,gya,common_voice_scripted,transcribed,10.43,9.75,7394,31,A,CC0-1.0,26.0,website text,human volunteer,True
+hac,hac,common_voice_spontaneous,transcribed,0.37,0.37,421,19,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+hac,hac,common_voice_spontaneous,untranscribed,10.82,,421,19,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+hat,ht,common_voice_scripted,transcribed,0.04,0.04,30,3,A,CC0-1.0,26.0,website text,human volunteer,True
+hau,ha,common_voice_scripted,transcribed,12.63,4.24,10450,61,A,CC0-1.0,26.0,website text,human volunteer,True
+haz,haz,common_voice_scripted,transcribed,10.53,10.52,8325,9,A,CC0-1.0,26.0,website text,human volunteer,True
+hch,hch,common_voice_spontaneous,transcribed,10.12,10.12,1553,10,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+hch,hch,common_voice_spontaneous,untranscribed,0.02000000000000135,,1553,10,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+heb,he,common_voice_scripted,transcribed,6.98,5.27,5524,58,A,CC0-1.0,26.0,website text,human volunteer,True
+hem,hem,common_voice_scripted,transcribed,10.73,9.95,6441,41,A,CC0-1.0,26.0,website text,human volunteer,True
+hin,hi,common_voice_scripted,transcribed,26.67,15.6,19029,480,A,CC0-1.0,26.0,website text,human volunteer,True
+hno,hno,common_voice_scripted,transcribed,10.47,10.15,9407,36,A,CC0-1.0,26.0,website text,human volunteer,True
+hrv,hr,common_voice_scripted,transcribed,0.03,0.01,30,2,A,CC0-1.0,26.0,website text,human volunteer,True
+hrv,hr,common_voice_spontaneous,transcribed,0.0,0.0,4,1,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+hrv,hr,common_voice_spontaneous,untranscribed,0.01,,4,1,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+hsb,hsb,common_voice_scripted,transcribed,12.86,3.59,5952,34,A,CC0-1.0,26.0,website text,human volunteer,True
+hun,hu,common_voice_scripted,transcribed,180.95,137.4,117568,1679,A,CC0-1.0,26.0,website text,human volunteer,True
+hux,hux,common_voice_scripted,transcribed,11.42,9.99,10608,13,A,CC0-1.0,26.0,website text,human volunteer,True
+hye,hy-AM,common_voice_scripted,transcribed,62.02,38.87,41350,1041,A,CC0-1.0,26.0,website text,human volunteer,True
+ibb,ibb,common_voice_scripted,transcribed,18.18,7.76,7274,19,A,CC0-1.0,26.0,website text,human volunteer,True
+ibo,ig,common_voice_scripted,transcribed,18.92,2.8,12553,186,A,CC0-1.0,26.0,website text,human volunteer,True
+ina,ia,common_voice_scripted,transcribed,17.24,14.27,14770,72,A,CC0-1.0,26.0,website text,human volunteer,True
+ind,id,common_voice_scripted,transcribed,67.38,33.76,60804,671,A,CC0-1.0,26.0,website text,human volunteer,True
+ipk,ipk,common_voice_scripted,transcribed,7.19,7.19,3264,2,A,CC0-1.0,26.0,website text,human volunteer,True
+isl,is,common_voice_scripted,transcribed,0.73,0.19,414,8,A,CC0-1.0,26.0,website text,human volunteer,True
+ita,it,common_voice_scripted,transcribed,429.1,363.69,283867,7342,A,CC0-1.0,26.0,website text,human volunteer,True
+jav,jv,common_voice_spontaneous,transcribed,0.0,0.0,232,3,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+jav,jv,common_voice_spontaneous,untranscribed,1.39,,232,3,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+jgo,jgo,common_voice_scripted,transcribed,11.5,11.3,6189,16,A,CC0-1.0,26.0,website text,human volunteer,True
+jpn,ja,common_voice_scripted,transcribed,725.69,372.29,584920,7834,A,CC0-1.0,26.0,website text,human volunteer,True
+jqr,jqr,common_voice_scripted,transcribed,10.24,9.92,6254,12,A,CC0-1.0,26.0,website text,human volunteer,True
+kab,kab,common_voice_scripted,transcribed,693.88,571.29,747410,1607,A,CC0-1.0,26.0,website text,human volunteer,True
+kat,ka,common_voice_scripted,transcribed,493.76,262.02,334062,3146,A,CC0-1.0,26.0,website text,human volunteer,True
+kat,ka,common_voice_spontaneous,transcribed,0.5,0.5,414,20,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+kat,ka,common_voice_spontaneous,untranscribed,0.9199999999999999,,414,20,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+kaz,kk,common_voice_scripted,transcribed,3.98,2.52,2888,204,A,CC0-1.0,26.0,website text,human volunteer,True
+kbd,kbd,common_voice_scripted,transcribed,302.06,274.34,174133,380,A,CC0-1.0,26.0,website text,human volunteer,True
+kbd,kbd,common_voice_spontaneous,transcribed,8.21,8.21,1296,44,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+kbd,kbd,common_voice_spontaneous,untranscribed,4.34,,1296,44,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+kcn,kcn,common_voice_spontaneous,transcribed,9.69,9.69,2715,26,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+kcn,kcn,common_voice_spontaneous,untranscribed,4.270000000000001,,2715,26,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+kdh,kdh,common_voice_scripted,transcribed,9.66,9.19,14207,20,A,CC0-1.0,26.0,website text,human volunteer,True
+khm,km,common_voice_scripted,transcribed,0.93,0.19,704,10,A,CC0-1.0,26.0,website text,human volunteer,True
+khw,khw,common_voice_scripted,transcribed,18.58,16.01,9867,51,A,CC0-1.0,26.0,website text,human volunteer,True
+kin,rw,common_voice_scripted,transcribed,2384.22,2001.69,1714248,1185,A,CC0-1.0,26.0,website text,human volunteer,True
+kir,ky,common_voice_scripted,transcribed,47.87,38.87,37851,299,A,CC0-1.0,26.0,website text,human volunteer,True
+kjh,kjh,common_voice_scripted,transcribed,0.1,0.0,72,1,A,CC0-1.0,26.0,website text,human volunteer,True
+kln,kln,common_voice_scripted,transcribed,88.12,40.65,70042,41,A,CC0-1.0,26.0,website text,human volunteer,True
+kls,kls,common_voice_scripted,transcribed,10.2,10.04,9927,23,A,CC0-1.0,26.0,website text,human volunteer,True
+kmr,kmr,common_voice_scripted,transcribed,106.83,75.82,92414,696,A,CC0-1.0,26.0,website text,human volunteer,True
+koo,koo,common_voice_spontaneous,transcribed,10.13,10.13,3233,28,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+koo,koo,common_voice_spontaneous,untranscribed,4.76,,3233,28,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+kor,ko,common_voice_scripted,transcribed,10.38,2.54,7178,210,A,CC0-1.0,26.0,website text,human volunteer,True
+ksf,ksf,common_voice_scripted,transcribed,18.25,17.2,7868,24,A,CC0-1.0,26.0,website text,human volunteer,True
+kvx,kvx,common_voice_scripted,transcribed,11.17,11.03,7557,22,A,CC0-1.0,26.0,website text,human volunteer,True
+kxp,kxp,common_voice_scripted,transcribed,11.11,11.0,11759,22,A,CC0-1.0,26.0,website text,human volunteer,True
+kzi,kzi,common_voice_spontaneous,transcribed,0.22,0.22,1717,21,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+kzi,kzi,common_voice_spontaneous,untranscribed,9.29,,1717,21,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+laj,laj,common_voice_spontaneous,transcribed,0.0,0.0,34,2,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+laj,laj,common_voice_spontaneous,untranscribed,0.06,,34,2,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+lao,lo,common_voice_scripted,transcribed,0.4,0.35,223,16,A,CC0-1.0,26.0,website text,human volunteer,True
+lav,lv,common_voice_scripted,transcribed,312.63,266.89,233550,6557,A,CC0-1.0,26.0,website text,human volunteer,True
+lav,lv,common_voice_spontaneous,transcribed,0.08,0.08,62,9,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+lav,lv,common_voice_spontaneous,untranscribed,0.49999999999999994,,62,9,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+led,led,common_voice_spontaneous,transcribed,10.08,10.08,2851,26,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+led,led,common_voice_spontaneous,untranscribed,5.0600000000000005,,2851,26,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+lij,lij,common_voice_scripted,transcribed,5.67,5.03,5276,40,A,CC0-1.0,26.0,website text,human volunteer,True
+lij,lij,common_voice_spontaneous,transcribed,1.65,1.65,294,5,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+lij,lij,common_voice_spontaneous,untranscribed,0.71,,294,5,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+lit,lt,common_voice_scripted,transcribed,35.99,30.44,25384,333,A,CC0-1.0,26.0,website text,human volunteer,True
+lke,lke,common_voice_spontaneous,transcribed,9.95,9.95,2743,26,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+lke,lke,common_voice_spontaneous,untranscribed,2.4300000000000015,,2743,26,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+lrk,lrk,common_voice_scripted,transcribed,11.37,11.07,11770,20,A,CC0-1.0,26.0,website text,human volunteer,True
+lss,lss,common_voice_scripted,transcribed,10.05,9.93,10452,15,A,CC0-1.0,26.0,website text,human volunteer,True
+ltg,ltg,common_voice_scripted,transcribed,33.74,30.32,25363,389,A,CC0-1.0,26.0,website text,human volunteer,True
+lth,lth,common_voice_spontaneous,transcribed,9.13,9.13,3126,29,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+lth,lth,common_voice_spontaneous,untranscribed,6.229999999999999,,3126,29,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+lua,lua,common_voice_scripted,transcribed,10.4,8.88,5622,46,A,CC0-1.0,26.0,website text,human volunteer,True
+lug,lg,common_voice_scripted,transcribed,560.5,436.94,348837,672,A,CC0-1.0,26.0,website text,human volunteer,True
+luo,luo,common_voice_scripted,transcribed,111.57,27.53,82420,47,A,CC0-1.0,26.0,website text,human volunteer,True
+lzz,lzz,common_voice_scripted,transcribed,50.78,48.72,38480,162,A,CC0-1.0,26.0,website text,human volunteer,True
+mal,ml,common_voice_scripted,transcribed,11.39,4.1,9670,157,A,CC0-1.0,26.0,website text,human volunteer,True
+mar,mr,common_voice_scripted,transcribed,27.72,18.94,16096,106,A,CC0-1.0,26.0,website text,human volunteer,True
+mau,mau,common_voice_scripted,transcribed,10.82,10.42,6269,7,A,CC0-1.0,26.0,website text,human volunteer,True
+mbo,mbo,common_voice_scripted,transcribed,12.07,10.88,7882,13,A,CC0-1.0,26.0,website text,human volunteer,True
+mcf,mcf,common_voice_scripted,transcribed,10.32,10.24,13990,21,A,CC0-1.0,26.0,website text,human volunteer,True
+mcn,mcn,common_voice_scripted,transcribed,10.84,10.09,9260,35,A,CC0-1.0,26.0,website text,human volunteer,True
+mcx,mcx,common_voice_scripted,transcribed,10.2,10.08,5560,10,A,CC0-1.0,26.0,website text,human volunteer,True
+mdd,mdd,common_voice_scripted,transcribed,10.04,10.0,5567,7,A,CC0-1.0,26.0,website text,human volunteer,True
+mdf,mdf,common_voice_scripted,transcribed,0.5,0.49,345,11,A,CC0-1.0,26.0,website text,human volunteer,True
+meh,meh,common_voice_spontaneous,transcribed,10.05,10.05,1057,16,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+meh,meh,common_voice_spontaneous,untranscribed,0.09999999999999964,,1057,16,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+mel,mel,common_voice_spontaneous,transcribed,0.15,0.15,1624,35,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+mel,mel,common_voice_spontaneous,untranscribed,10.17,,1624,35,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+mgg,mgg,common_voice_scripted,transcribed,10.85,10.23,5158,9,A,CC0-1.0,26.0,website text,human volunteer,True
+mhk,mhk,common_voice_scripted,transcribed,11.43,11.26,6695,9,A,CC0-1.0,26.0,website text,human volunteer,True
+mhr,mhr,common_voice_scripted,transcribed,301.42,280.85,234770,500,A,CC0-1.0,26.0,website text,human volunteer,True
+mkd,mk,common_voice_scripted,transcribed,55.04,25.69,41227,468,A,CC0-1.0,26.0,website text,human volunteer,True
+mki,mki,common_voice_scripted,transcribed,10.04,9.92,11325,12,A,CC0-1.0,26.0,website text,human volunteer,True
+mlt,mt,common_voice_scripted,transcribed,17.6,8.75,13352,225,A,CC0-1.0,26.0,website text,human volunteer,True
+mmc,mmc,common_voice_spontaneous,transcribed,11.23,11.23,871,12,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+mmc,mmc,common_voice_spontaneous,untranscribed,0.0,,871,12,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+mnw,mnw,common_voice_spontaneous,transcribed,0.0,0.0,9,1,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+mnw,mnw,common_voice_spontaneous,untranscribed,0.01,,9,1,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+mon,mn,common_voice_scripted,transcribed,130.34,45.85,95918,612,A,CC0-1.0,26.0,website text,human volunteer,True
+mrj,mrj,common_voice_scripted,transcribed,36.91,33.74,31693,60,A,CC0-1.0,26.0,website text,human volunteer,True
+msa,ms,common_voice_scripted,transcribed,3.65,0.06,2132,29,A,CC0-1.0,26.0,website text,human volunteer,True
+mse,mse,common_voice_scripted,transcribed,8.15,7.72,4577,18,A,CC0-1.0,26.0,website text,human volunteer,True
+msi,msi,common_voice_spontaneous,transcribed,0.01,0.01,2277,33,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+msi,msi,common_voice_spontaneous,untranscribed,13.53,,2277,33,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+mua,mua,common_voice_scripted,transcribed,9.67,9.65,8694,17,A,CC0-1.0,26.0,website text,human volunteer,True
+mug,mug,common_voice_scripted,transcribed,5.58,5.42,2764,18,A,CC0-1.0,26.0,website text,human volunteer,True
+mve,mve,common_voice_scripted,transcribed,10.12,10.06,7690,20,A,CC0-1.0,26.0,website text,human volunteer,True
+mvy,mvy,common_voice_scripted,transcribed,24.6,22.1,18485,57,A,CC0-1.0,26.0,website text,human volunteer,True
+mxu,mxu,common_voice_scripted,transcribed,12.35,12.34,7758,22,A,CC0-1.0,26.0,website text,human volunteer,True
+myv,myv,common_voice_scripted,transcribed,3.22,3.16,2010,13,A,CC0-1.0,26.0,website text,human volunteer,True
+nbl,nr,common_voice_scripted,transcribed,0.01,0.0,7,2,A,CC0-1.0,26.0,website text,human volunteer,True
+ncx,ncx,common_voice_scripted,transcribed,11.77,10.7,9509,41,A,CC0-1.0,26.0,website text,human volunteer,True
+nep,ne-NP,common_voice_scripted,transcribed,2.0,1.38,1739,63,A,CC0-1.0,26.0,website text,human volunteer,True
+nhi,nhi,common_voice_scripted,transcribed,0.6,0.05,427,6,A,CC0-1.0,26.0,website text,human volunteer,True
+nla,nla,common_voice_scripted,transcribed,9.19,8.92,4775,15,A,CC0-1.0,26.0,website text,human volunteer,True
+nld,nl,common_voice_scripted,transcribed,141.04,126.36,116112,1884,A,CC0-1.0,26.0,website text,human volunteer,True
+nld,nl,common_voice_spontaneous,transcribed,0.0,0.0,26,3,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+nld,nl,common_voice_spontaneous,untranscribed,0.15,,26,3,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+nlv,nlv,common_voice_scripted,transcribed,11.92,11.61,6844,16,A,CC0-1.0,26.0,website text,human volunteer,True
+nmg,nmg,common_voice_scripted,transcribed,10.59,10.42,5959,11,A,CC0-1.0,26.0,website text,human volunteer,True
+nmz,nmz,common_voice_scripted,transcribed,11.55,11.21,14117,35,A,CC0-1.0,26.0,website text,human volunteer,True
+nnh,nnh,common_voice_scripted,transcribed,18.92,18.89,7643,17,A,CC0-1.0,26.0,website text,human volunteer,True
+nno,nn-NO,common_voice_scripted,transcribed,1.92,1.61,1558,41,A,CC0-1.0,26.0,website text,human volunteer,True
+nob,nb-NO,common_voice_scripted,transcribed,2.6,2.34,2237,67,A,CC0-1.0,26.0,website text,human volunteer,True
+nso,nso,common_voice_scripted,transcribed,0.19,0.02,124,2,A,CC0-1.0,26.0,website text,human volunteer,True
+nyu,nyu,common_voice_scripted,transcribed,9.27,9.15,3684,5,A,CC0-1.0,26.0,website text,human volunteer,True
+oci,oc,common_voice_scripted,transcribed,13.37,2.68,9885,149,A,CC0-1.0,26.0,website text,human volunteer,True
+odk,odk,common_voice_scripted,transcribed,11.29,11.21,6387,20,A,CC0-1.0,26.0,website text,human volunteer,True
+ori,or,common_voice_scripted,transcribed,37.29,6.29,24238,164,A,CC0-1.0,26.0,website text,human volunteer,True
+orm,om,common_voice_scripted,transcribed,26.12,25.88,18610,35,A,CC0-1.0,26.0,website text,human volunteer,True
+orm,om,common_voice_spontaneous,transcribed,0.2,0.2,15,3,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+orm,om,common_voice_spontaneous,untranscribed,0.0,,15,3,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+oru,oru,common_voice_scripted,transcribed,34.89,21.04,18306,17,A,CC0-1.0,26.0,website text,human volunteer,True
+oss,os,common_voice_scripted,transcribed,1.48,1.41,966,39,A,CC0-1.0,26.0,website text,human volunteer,True
+pan,pa-IN,common_voice_scripted,transcribed,4.36,2.44,3268,75,A,CC0-1.0,26.0,website text,human volunteer,True
+pcm,pcm,common_voice_scripted,transcribed,14.45,12.5,8964,60,A,CC0-1.0,26.0,website text,human volunteer,True
+phl,phl,common_voice_scripted,transcribed,28.9,21.26,21142,20,A,CC0-1.0,26.0,website text,human volunteer,True
+phr,phr,common_voice_scripted,transcribed,14.11,13.97,12825,63,A,CC0-1.0,26.0,website text,human volunteer,True
+plk,plk,common_voice_scripted,transcribed,16.66,12.58,11935,10,A,CC0-1.0,26.0,website text,human volunteer,True
+pne,pne,common_voice_spontaneous,transcribed,12.13,12.13,2595,24,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+pne,pne,common_voice_spontaneous,untranscribed,0.0,,2595,24,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+pol,pl,common_voice_scripted,transcribed,188.92,176.89,148736,3470,A,CC0-1.0,26.0,website text,human volunteer,True
+por,pt,common_voice_scripted,transcribed,229.32,188.02,197095,3843,A,CC0-1.0,26.0,website text,human volunteer,True
+prq,prq,common_voice_scripted,transcribed,10.05,9.74,7660,13,A,CC0-1.0,26.0,website text,human volunteer,True
+pua,pua,common_voice_scripted,transcribed,11.09,10.22,8176,9,A,CC0-1.0,26.0,website text,human volunteer,True
+pus,ps,common_voice_scripted,transcribed,5521.62,3261.0,5193154,8355,A,CC0-1.0,26.0,website text,human volunteer,True
+pus,ps,common_voice_spontaneous,transcribed,0.77,0.77,965,73,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+pus,ps,common_voice_spontaneous,untranscribed,10.72,,965,73,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+pwn,pwn,common_voice_scripted,transcribed,14.8,14.61,10938,27,A,CC0-1.0,26.0,website text,human volunteer,True
+qup,qup,common_voice_scripted,transcribed,15.92,11.86,9668,15,A,CC0-1.0,26.0,website text,human volunteer,True
+qur,qur,common_voice_scripted,transcribed,10.09,10.03,10476,12,A,CC0-1.0,26.0,website text,human volunteer,True
+qus,qus,common_voice_scripted,transcribed,11.28,10.75,10832,24,A,CC0-1.0,26.0,website text,human volunteer,True
+qux,qux,common_voice_scripted,transcribed,12.99,9.78,8174,15,A,CC0-1.0,26.0,website text,human volunteer,True
+quy,quy,common_voice_scripted,transcribed,1.7,0.05,1229,8,A,CC0-1.0,26.0,website text,human volunteer,True
+qva,qva,common_voice_scripted,transcribed,9.83,9.79,8254,13,A,CC0-1.0,26.0,website text,human volunteer,True
+qvi,qvi,common_voice_scripted,transcribed,12.53,11.39,10196,15,A,CC0-1.0,26.0,website text,human volunteer,True
+qvj,qvj,common_voice_scripted,transcribed,11.17,10.84,6746,16,A,CC0-1.0,26.0,website text,human volunteer,True
+qvl,qvl,common_voice_scripted,transcribed,10.0,9.98,9097,19,A,CC0-1.0,26.0,website text,human volunteer,True
+qwa,qwa,common_voice_scripted,transcribed,11.5,9.92,8363,13,A,CC0-1.0,26.0,website text,human volunteer,True
+qws,qws,common_voice_scripted,transcribed,10.38,10.26,8977,12,A,CC0-1.0,26.0,website text,human volunteer,True
+qxa,qxa,common_voice_scripted,transcribed,10.51,10.08,8719,18,A,CC0-1.0,26.0,website text,human volunteer,True
+qxp,qxp,common_voice_scripted,transcribed,34.88,31.18,25423,81,A,CC0-1.0,26.0,website text,human volunteer,True
+qxp,qxp,common_voice_spontaneous,transcribed,5.18,5.18,7305,110,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+qxp,qxp,common_voice_spontaneous,untranscribed,30.229999999999997,,7305,110,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+qxt,qxt,common_voice_scripted,transcribed,13.26,10.3,11128,16,A,CC0-1.0,26.0,website text,human volunteer,True
+qxu,qxu,common_voice_scripted,transcribed,12.65,10.14,10882,16,A,CC0-1.0,26.0,website text,human volunteer,True
+qxw,qxw,common_voice_scripted,transcribed,13.49,11.69,9252,14,A,CC0-1.0,26.0,website text,human volunteer,True
+rki,rki,common_voice_spontaneous,transcribed,0.12,0.12,194,14,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+rki,rki,common_voice_spontaneous,untranscribed,0.48,,194,14,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+rof,rof,common_voice_scripted,transcribed,11.24,10.36,10365,24,A,CC0-1.0,26.0,website text,human volunteer,True
+roh,rm-sursilv,common_voice_scripted,transcribed,11.89,7.92,7963,93,A,CC0-1.0,26.0,website text,human volunteer,True
+roh,rm-vallader,common_voice_scripted,transcribed,4.33,2.48,2676,55,A,CC0-1.0,26.0,website text,human volunteer,True
+ron,ro,common_voice_scripted,transcribed,51.66,24.87,45652,464,A,CC0-1.0,26.0,website text,human volunteer,True
+ruc,ruc,common_voice_spontaneous,transcribed,10.14,10.14,2822,26,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+ruc,ruc,common_voice_spontaneous,untranscribed,7.609999999999999,,2822,26,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+rup,rup,common_voice_scripted,transcribed,0.33,0.05,172,9,A,CC0-1.0,26.0,website text,human volunteer,True
+rus,ru,common_voice_scripted,transcribed,291.58,253.69,202634,3744,A,CC0-1.0,26.0,website text,human volunteer,True
+rus,ru,common_voice_spontaneous,transcribed,2.4,2.4,552,17,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+rus,ru,common_voice_spontaneous,untranscribed,1.0,,552,17,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+rwm,rwm,common_voice_spontaneous,transcribed,10.13,10.13,2426,21,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+rwm,rwm,common_voice_spontaneous,untranscribed,3.4799999999999986,,2426,21,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+sah,sah,common_voice_scripted,transcribed,23.35,16.34,13278,255,A,CC0-1.0,26.0,website text,human volunteer,True
+sat,sat,common_voice_scripted,transcribed,1.06,0.66,854,14,A,CC0-1.0,26.0,website text,human volunteer,True
+sbn,sbn,common_voice_scripted,transcribed,10.75,10.72,10986,21,A,CC0-1.0,26.0,website text,human volunteer,True
+scl,scl,common_voice_scripted,transcribed,10.2,10.03,9022,40,A,CC0-1.0,26.0,website text,human volunteer,True
+sco,sco,common_voice_spontaneous,transcribed,10.68,10.68,715,21,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+sco,sco,common_voice_spontaneous,untranscribed,0.4900000000000002,,715,21,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+sdo,sdo,common_voice_spontaneous,transcribed,1.32,1.32,1389,25,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+sdo,sdo,common_voice_spontaneous,untranscribed,8.49,,1389,25,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+seh,seh,common_voice_spontaneous,transcribed,0.0,0.0,290,5,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+seh,seh,common_voice_spontaneous,untranscribed,1.62,,290,5,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+sei,sei,common_voice_scripted,transcribed,10.46,10.08,8310,17,A,CC0-1.0,26.0,website text,human volunteer,True
+shi,shi,common_voice_spontaneous,transcribed,0.01,0.01,328,16,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+shi,shi,common_voice_spontaneous,untranscribed,2.7100000000000004,,328,16,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+sin,si,common_voice_spontaneous,transcribed,0.0,0.0,59,1,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+sin,si,common_voice_spontaneous,untranscribed,0.4,,59,1,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+skr,skr,common_voice_scripted,transcribed,6.75,4.34,5837,60,A,CC0-1.0,26.0,website text,human volunteer,True
+slk,sk,common_voice_scripted,transcribed,58.32,56.66,48858,272,A,CC0-1.0,26.0,website text,human volunteer,True
+slv,sl,common_voice_scripted,transcribed,21.61,17.33,19526,1003,A,CC0-1.0,26.0,website text,human volunteer,True
+sna,sn,common_voice_spontaneous,transcribed,0.0,0.0,6,2,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+sna,sn,common_voice_spontaneous,untranscribed,0.07,,6,2,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+snd,sd,common_voice_scripted,transcribed,57.79,0.36,51475,33,A,CC0-1.0,26.0,website text,human volunteer,True
+snv,snv,common_voice_spontaneous,transcribed,0.02,0.02,2036,30,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+snv,snv,common_voice_spontaneous,untranscribed,10.450000000000001,,2036,30,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+sot,st,common_voice_scripted,transcribed,0.18,0.01,209,2,A,CC0-1.0,26.0,website text,human volunteer,True
+spa,es,common_voice_scripted,transcribed,2278.66,595.45,1680810,26940,A,CC0-1.0,26.0,website text,human volunteer,True
+spa,es,common_voice_spontaneous,transcribed,0.07,0.07,403,16,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+spa,es,common_voice_spontaneous,untranscribed,1.14,,403,16,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+sqi,sq,common_voice_scripted,transcribed,9.26,9.0,6553,155,A,CC0-1.0,26.0,website text,human volunteer,True
+srd,sc,common_voice_scripted,transcribed,3.74,3.04,2854,50,A,CC0-1.0,26.0,website text,human volunteer,True
+srp,sr,common_voice_scripted,transcribed,12.74,7.61,14069,185,A,CC0-1.0,26.0,website text,human volunteer,True
+ssi,ssi,common_voice_scripted,transcribed,10.54,10.52,10200,21,A,CC0-1.0,26.0,website text,human volunteer,True
+ssw,ss,common_voice_scripted,transcribed,0.27,0.0,131,3,A,CC0-1.0,26.0,website text,human volunteer,True
+sun,su,common_voice_spontaneous,transcribed,0.03,0.03,207,2,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+sun,su,common_voice_spontaneous,untranscribed,0.59,,207,2,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+sva,sva,common_voice_scripted,transcribed,18.04,15.73,10970,57,A,CC0-1.0,26.0,website text,human volunteer,True
+swa,sw,common_voice_scripted,transcribed,1064.6,392.2,730532,1523,A,CC0-1.0,26.0,website text,human volunteer,True
+swb,swb,common_voice_spontaneous,transcribed,0.0,0.0,18,5,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+swb,swb,common_voice_spontaneous,untranscribed,0.33,,18,5,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+swe,sv-SE,common_voice_scripted,transcribed,56.18,47.73,50259,889,A,CC0-1.0,26.0,website text,human volunteer,True
+szy,szy,common_voice_scripted,transcribed,14.45,13.72,9643,26,A,CC0-1.0,26.0,website text,human volunteer,True
+tam,ta,common_voice_scripted,transcribed,425.33,234.79,247671,981,A,CC0-1.0,26.0,website text,human volunteer,True
+tar,tar,common_voice_scripted,transcribed,10.01,9.97,7922,17,A,CC0-1.0,26.0,website text,human volunteer,True
+tat,tt,common_voice_scripted,transcribed,33.44,32.48,31364,297,A,CC0-1.0,26.0,website text,human volunteer,True
+tat,tt,common_voice_spontaneous,transcribed,0.0,0.0,14,1,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+tat,tt,common_voice_spontaneous,untranscribed,0.22,,14,1,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+tay,tay,common_voice_scripted,transcribed,12.38,11.47,8039,19,A,CC0-1.0,26.0,website text,human volunteer,True
+tel,te,common_voice_scripted,transcribed,3.04,0.87,2598,67,A,CC0-1.0,26.0,website text,human volunteer,True
+tgk,tg,common_voice_scripted,transcribed,0.95,0.8,680,10,A,CC0-1.0,26.0,website text,human volunteer,True
+tha,th,common_voice_scripted,transcribed,427.0,173.32,366589,7994,A,CC0-1.0,26.0,website text,human volunteer,True
+tha,th,common_voice_spontaneous,transcribed,0.0,0.0,41,3,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+tha,th,common_voice_spontaneous,untranscribed,0.08,,41,3,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+tig,tig,common_voice_scripted,transcribed,11.26,10.72,6777,152,A,CC0-1.0,26.0,website text,human volunteer,True
+tir,ti,common_voice_scripted,transcribed,0.65,0.1,451,16,A,CC0-1.0,26.0,website text,human volunteer,True
+tli,tli,common_voice_scripted,transcribed,9.92,9.92,2836,3,A,CC0-1.0,26.0,website text,human volunteer,True
+tob,tob,common_voice_spontaneous,transcribed,9.67,9.67,1572,25,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+tob,tob,common_voice_spontaneous,untranscribed,0.33000000000000007,,1572,25,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+tok,tok,common_voice_scripted,transcribed,23.39,15.7,19542,176,A,CC0-1.0,26.0,website text,human volunteer,True
+top,top,common_voice_spontaneous,transcribed,10.36,10.36,417,10,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+top,top,common_voice_spontaneous,untranscribed,0.14000000000000057,,417,10,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+trv,trv,common_voice_scripted,transcribed,10.11,9.95,6490,10,A,CC0-1.0,26.0,website text,human volunteer,True
+trw,trw,common_voice_scripted,transcribed,18.55,16.49,12431,27,A,CC0-1.0,26.0,website text,human volunteer,True
+tsn,tn,common_voice_scripted,transcribed,4.93,4.26,4059,18,A,CC0-1.0,26.0,website text,human volunteer,True
+tso,ts,common_voice_scripted,transcribed,0.0,0.0,1,1,A,CC0-1.0,26.0,website text,human volunteer,True
+ttj,ttj,common_voice_spontaneous,transcribed,10.03,10.03,3100,26,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+ttj,ttj,common_voice_spontaneous,untranscribed,6.74,,3100,26,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+tui,tui,common_voice_scripted,transcribed,11.03,9.75,8576,51,A,CC0-1.0,26.0,website text,human volunteer,True
+tuk,tk,common_voice_scripted,transcribed,7.78,3.08,5087,150,A,CC0-1.0,26.0,website text,human volunteer,True
+tuq,tuq,common_voice_spontaneous,transcribed,0.0,0.0,87,3,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+tuq,tuq,common_voice_spontaneous,untranscribed,0.69,,87,3,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+tur,tr,common_voice_scripted,transcribed,135.64,130.1,126723,1829,A,CC0-1.0,26.0,website text,human volunteer,True
+tur,tr,common_voice_spontaneous,transcribed,0.19,0.19,52,12,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+tur,tr,common_voice_spontaneous,untranscribed,0.09000000000000002,,52,12,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+tvu,tvu,common_voice_scripted,transcribed,10.57,10.21,5434,13,A,CC0-1.0,26.0,website text,human volunteer,True
+twi,tw,common_voice_scripted,transcribed,1.36,0.36,966,20,A,CC0-1.0,26.0,website text,human volunteer,True
+udl,udl,common_voice_scripted,transcribed,9.66,9.51,6504,20,A,CC0-1.0,26.0,website text,human volunteer,True
+uig,ug,common_voice_scripted,transcribed,504.92,460.48,306962,1852,A,CC0-1.0,26.0,website text,human volunteer,True
+ukr,uk,common_voice_scripted,transcribed,118.46,102.96,91708,1177,A,CC0-1.0,26.0,website text,human volunteer,True
+ukv,ukv,common_voice_spontaneous,transcribed,10.03,10.03,2570,22,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+ukv,ukv,common_voice_spontaneous,untranscribed,1.7599999999999998,,2570,22,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+urd,ur,common_voice_scripted,transcribed,294.7,79.74,250814,504,A,CC0-1.0,26.0,website text,human volunteer,True
+ush,ush,common_voice_scripted,transcribed,6.76,6.59,3961,23,A,CC0-1.0,26.0,website text,human volunteer,True
+ush,ush,common_voice_spontaneous,transcribed,4.94,4.94,664,10,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+ush,ush,common_voice_spontaneous,untranscribed,0.1299999999999999,,664,10,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+uzb,uz,common_voice_scripted,transcribed,266.0,101.18,230183,2309,A,CC0-1.0,26.0,website text,human volunteer,True
+var,var,common_voice_scripted,transcribed,11.8,10.09,8006,12,A,CC0-1.0,26.0,website text,human volunteer,True
+ven,ve,common_voice_scripted,transcribed,0.03,0.0,25,3,A,CC0-1.0,26.0,website text,human volunteer,True
+vie,vi,common_voice_scripted,transcribed,22.96,7.8,20599,417,A,CC0-1.0,26.0,website text,human volunteer,True
+vot,vot,common_voice_scripted,transcribed,0.28,0.06,427,6,A,CC0-1.0,26.0,website text,human volunteer,True
+wbl,wbl,common_voice_scripted,transcribed,15.36,12.12,8192,14,A,CC0-1.0,26.0,website text,human volunteer,True
+wes,wes,common_voice_scripted,transcribed,10.77,10.31,9417,18,A,CC0-1.0,26.0,website text,human volunteer,True
+xhe,xhe,common_voice_scripted,transcribed,9.74,9.62,11572,11,A,CC0-1.0,26.0,website text,human volunteer,True
+xho,xh,common_voice_scripted,transcribed,0.04,0.02,30,4,A,CC0-1.0,26.0,website text,human volunteer,True
+xka,xka,common_voice_scripted,transcribed,10.38,9.83,11833,9,A,CC0-1.0,26.0,website text,human volunteer,True
+xkl,xkl,common_voice_spontaneous,transcribed,1.44,1.44,1795,23,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,True
+xkl,xkl,common_voice_spontaneous,untranscribed,8.97,,1795,23,A,CC0-1.0,4.0,no source - spontaneous speech,human volunteer,False
+xmf,xmf,common_voice_scripted,transcribed,12.69,11.58,7419,92,A,CC0-1.0,26.0,website text,human volunteer,True
+yaq,yaq,common_voice_scripted,transcribed,11.46,10.21,7771,5,A,CC0-1.0,26.0,website text,human volunteer,True
+yav,yav,common_voice_scripted,transcribed,10.16,8.64,5499,10,A,CC0-1.0,26.0,website text,human volunteer,True
+ydg,ydg,common_voice_scripted,transcribed,11.47,10.64,11488,18,A,CC0-1.0,26.0,website text,human volunteer,True
+yid,yi,common_voice_scripted,transcribed,2.23,2.13,2019,127,A,CC0-1.0,26.0,website text,human volunteer,True
+yor,yo,common_voice_scripted,transcribed,8.26,5.89,4925,135,A,CC0-1.0,26.0,website text,human volunteer,True
+yue,yue,common_voice_scripted,transcribed,307.41,210.7,279366,1183,A,CC0-1.0,26.0,website text,human volunteer,True
+zgh,zgh,common_voice_scripted,transcribed,2.22,1.45,2229,51,A,CC0-1.0,26.0,website text,human volunteer,True
+zho,zh-TW,common_voice_scripted,transcribed,131.52,79.83,140826,2331,A,CC0-1.0,26.0,website text,human volunteer,True
+zho,zh-CN,common_voice_scripted,transcribed,1074.32,239.59,852010,7580,A,CC0-1.0,26.0,website text,human volunteer,True
+zho,zh-HK,common_voice_scripted,transcribed,143.37,108.54,124369,3113,A,CC0-1.0,26.0,website text,human volunteer,True
+zoc,zoc,common_voice_scripted,transcribed,10.14,10.07,8948,12,A,CC0-1.0,26.0,website text,human volunteer,True
+zul,zu,common_voice_scripted,transcribed,0.31,0.04,203,8,A,CC0-1.0,26.0,website text,human volunteer,True
+zza,zza,common_voice_scripted,transcribed,2.72,1.95,2434,26,A,CC0-1.0,26.0,website text,human volunteer,True

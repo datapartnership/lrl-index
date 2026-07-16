@@ -1,0 +1,23 @@
+source,match_status,count,pct_of_total
+FineWeb-2,no_match,6123,77.22
+FineWeb-2,exact,1756,22.15
+FineWeb-2,multi_script,50,0.63
+FineWeb-2,TOTAL_MATCHED (any status != no_match),1806,22.78
+FineWeb-2,TOTAL_RELYING_ON_ISO_639_2_TIER,0,0.0
+FineWeb-2,TOTAL_LANGUAGES,7929,100.0
+Hugging Face,exact_iso3,7713,97.28
+Hugging Face,matched_multiple:iso3+iso1,174,2.19
+Hugging Face,no_match,32,0.4
+Hugging Face,matched_multiple:iso3+iso1+iso2b,10,0.13
+Hugging Face,TOTAL_MATCHED (any status != no_match),7897,99.6
+Hugging Face,TOTAL_RELYING_ON_ISO_639_2_TIER,10,0.13
+Hugging Face,TOTAL_LANGUAGES,7929,100.0
+Common Voice,no_match,7496,94.54
+Common Voice,exact_iso3,289,3.64
+Common Voice,matched_via_bcp47,132,1.66
+Common Voice,matched_via_bcp47_region_variant,9,0.11
+Common Voice,matched_multiple:matched_via_bcp47_region_variant,2,0.03
+Common Voice,matched_multiple:exact_iso3+matched_via_bcp47_region_variant,1,0.01
+Common Voice,TOTAL_MATCHED (any status != no_match),433,5.46
+Common Voice,TOTAL_RELYING_ON_ISO_639_2_TIER,0,0.0
+Common Voice,TOTAL_LANGUAGES,7929,100.0

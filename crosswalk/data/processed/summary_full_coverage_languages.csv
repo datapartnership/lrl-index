@@ -1,0 +1,285 @@
+iso_639_3,language_name,is_macrolanguage,matched_fineweb2,matched_huggingface,matched_commonvoice,num_sources_matched,any_match_via_iso639_2,matched_sources_label
+abk,Abkhazian,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+abq,Abaza,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+ace,Achinese,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+ady,Adyghe,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+afr,Afrikaans,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+aii,Assyrian Neo-Aramaic,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+ajg,Aja (Benin),False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+aln,Gheg Albanian,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+amh,Amharic,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+arg,Aragonese,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+arn,Mapudungun,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+asm,Assamese,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+ast,Asturian,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+azz,Highland Puebla Nahuatl,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+bak,Bashkir,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+bam,Bambara,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+bas,Basa (Cameroon),False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+bba,Baatonum,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+bbj,Ghomálá',False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+bci,Baoulé,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+bel,Belarusian,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+ben,Bengali,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+bew,Betawi,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+bfd,Bafut,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+bin,Bini,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+bod,Tibetan,False,True,True,True,3,True,FineWeb-2+HuggingFace+CommonVoice
+bos,Bosnian,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+bre,Breton,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+brh,Brahui,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+brx,Bodo (India),False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+bul,Bulgarian,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+bum,Bulu (Cameroon),False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+bxr,Russia Buriat,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+byv,Medumba,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+cak,Kaqchikel,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+cat,Catalan,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+ces,Czech,False,True,True,True,3,True,FineWeb-2+HuggingFace+CommonVoice
+cgg,Chiga,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+che,Chechen,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+chv,Chuvash,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+cjk,Chokwe,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+ckb,Central Kurdish,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+cnh,Hakha Chin,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+cor,Cornish,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+cos,Corsican,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+cpy,South Ucayali Ashéninka,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+crh,Crimean Tatar,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+cut,Teutila Cuicatec,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+cux,Tepeuxila Cuicatec,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+cym,Welsh,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+dag,Dagbani,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+dan,Danish,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+dar,Dargwa,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+deu,German,False,True,True,True,3,True,FineWeb-2+HuggingFace+CommonVoice
+div,Dhivehi,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+dru,Rukai,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+dsb,Lower Sorbian,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+dua,Duala,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+dyu,Dyula,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+dzo,Dzongkha,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+eko,Koti,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+ell,Modern Greek (1453-),False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+epo,Esperanto,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+esu,Central Yupik,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+eto,Eton (Cameroon),False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+eus,Basque,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+ewe,Ewe,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+ewo,Ewondo,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+fan,Fang (Equatorial Guinea),False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+fao,Faroese,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+fas,Persian,True,True,True,True,3,True,FineWeb-2+HuggingFace+CommonVoice
+fin,Finnish,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+fra,French,False,True,True,True,3,True,FineWeb-2+HuggingFace+CommonVoice
+fry,Western Frisian,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+fub,Adamawa Fulfulde,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+fue,Borgu Fulfulde,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+fuf,Pular,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+gaa,Ga,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+gcf,Guadeloupean Creole French,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+gej,Gen,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+gid,Gidar,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+giz,South Giziga,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+gle,Irish,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+glg,Galician,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+glk,Gilaki,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+glv,Manx,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+gom,Goan Konkani,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+gos,Gronings,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+gsw,Swiss German,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+guc,Wayuu,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+guj,Gujarati,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+gya,Northwest Gbaya,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+hac,Gurani,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+hak,Hakka Chinese,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+hat,Haitian,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+hau,Hausa,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+hch,Huichol,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+heb,Hebrew,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+hil,Hiligaynon,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+hin,Hindi,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+hrv,Croatian,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+hrx,Hunsrik,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+hsb,Upper Sorbian,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+hun,Hungarian,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+hye,Armenian,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+iba,Iban,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+ibo,Igbo,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+ile,Interlingue,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+ina,Interlingua (IALA),False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+ind,Indonesian,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+isl,Icelandic,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+ita,Italian,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+jam,Jamaican Creole English,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+jav,Javanese,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+jbo,Lojban,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+jpn,Japanese,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+kaa,Kara-Kalpak,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+kab,Kabyle,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+kal,Kalaallisut,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+kam,Kamba (Kenya),False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+kan,Kannada,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+kas,Kashmiri,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+kat,Georgian,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+kaz,Kazakh,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+kbd,Kabardian,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+kdh,Tem,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+khm,Khmer,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+kik,Kikuyu,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+kin,Kinyarwanda,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+kir,Kirghiz,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+kjh,Khakas,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+kmr,Northern Kurdish,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+koo,Konzo,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+kor,Korean,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+kpv,Komi-Zyrian,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+krc,Karachay-Balkar,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+ksf,Bafia,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+laj,Lango (Uganda),False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+lao,Lao,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+leu,Kara (Papua New Guinea),False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+lij,Ligurian,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+lin,Lingala,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+lit,Lithuanian,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+lld,Ladin,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+ltg,Latgalian,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+ltz,Luxembourgish,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+lua,Luba-Lulua,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+lug,Ganda,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+luo,Luo (Kenya and Tanzania),False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+mai,Maithili,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+mal,Malayalam,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+mar,Marathi,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+mau,Huautla Mazatec,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+mbf,Baba Malay,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+mcf,Matsés,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+mcn,Masana,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+mdf,Moksha,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+mfe,Morisyen,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+mhr,Eastern Mari,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+mkd,Macedonian,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+mlt,Maltese,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+mni,Manipuri,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+mnw,Mon,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+mos,Mossi,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+mrj,Western Mari,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+mse,Musey,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+mua,Mundang,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+mug,Musgu,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+mui,Musi,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+mya,Burmese,False,True,True,True,3,True,FineWeb-2+HuggingFace+CommonVoice
+myv,Erzya,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+nbl,South Ndebele,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+ncx,Central Puebla Nahuatl,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+nde,North Ndebele,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+new,Nepal Bhasa,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+nhe,Eastern Huasteca Nahuatl,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+nhi,Zacatlán-Ahuacatlán-Tepetzintla Nahuatl,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+nia,Nias,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+nld,Dutch,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+nmz,Nawdm,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+nnh,Ngiemboon,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+nno,Norwegian Nynorsk,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+nob,Norwegian Bokmål,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+nqo,N'Ko,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+nso,Pedi,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+nya,Chichewa,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+nyn,Nyankole,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+nyu,Nyungwe,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+oci,Occitan (post 1500),False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+oss,Iron Ossetic,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+pan,Panjabi,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+pap,Papiamento,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+pau,Palauan,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+pcd,Picard,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+pcm,Nigerian Pidgin,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+pne,Western Penan,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+pol,Polish,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+por,Portuguese,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+prq,Ashéninka Perené,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+pwn,Paiwan,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+quc,K'iche',False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+qug,Chimborazo Highland Quichua,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+qup,Southern Pastaza Quechua,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+qus,Santiago del Estero Quichua,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+quy,Ayacucho Quechua,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+qva,Ambo-Pasco Quechua,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+qvi,Imbabura Highland Quichua,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+roh,Romansh,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+ron,Romanian,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+run,Rundi,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+rup,Macedo-Romanian,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+rus,Russian,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+sag,Sango,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+sah,Yakut,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+sat,Santali,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+sba,Ngambay,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+scn,Sicilian,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+sco,Scots,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+sdh,Southern Kurdish,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+sdo,Bukar-Sadung Bidayuh,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+seh,Sena,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+shi,Tachelhit,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+shn,Shan,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+sin,Sinhala,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+skr,Saraiki,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+slk,Slovak,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+slv,Slovenian,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+sna,Shona,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+snd,Sindhi,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+som,Somali,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+sot,Southern Sotho,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+spa,Spanish,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+srd,Sardinian,True,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+srp,Serbian,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+ssw,Swati,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+sun,Sundanese,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+swb,Maore Comorian,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+swe,Swedish,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+szy,Sakizaya,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+tah,Tahitian,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+tam,Tamil,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+tar,Central Tarahumara,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+tat,Tatar,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+tay,Atayal,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+tel,Telugu,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+tgk,Tajik,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+tha,Thai,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+tig,Tigre,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+tir,Tigrinya,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+tiv,Tiv,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+tob,Toba,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+tok,Toki Pona,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+top,Papantla Totonac,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+trv,Sediq,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+tsn,Tswana,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+tso,Tsonga,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+ttj,Tooro,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+tui,Tupuri,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+tuk,Turkmen,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+tum,Tumbuka,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+tur,Turkish,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+twi,Twi,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+tyv,Tuvinian,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+udm,Udmurt,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+uig,Uighur,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+ukr,Ukrainian,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+urd,Urdu,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+usp,Uspanteco,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+var,Huarijio,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+vec,Venetian,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+ven,Venda,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+vie,Vietnamese,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+vmw,Makhuwa,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+vot,Votic,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+wes,Cameroon Pidgin,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+wol,Wolof,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+xho,Xhosa,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+xmf,Mingrelian,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+xsm,Kasem,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+yaq,Yaqui,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+yor,Yoruba,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+yue,Yue Chinese,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+zgh,Standard Moroccan Tamazight,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice
+zul,Zulu,False,True,True,True,3,False,FineWeb-2+HuggingFace+CommonVoice

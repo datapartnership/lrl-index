@@ -1,0 +1,11 @@
+iso_639_3,language_name,is_macrolanguage,matched_fineweb2,matched_huggingface,matched_commonvoice,num_sources_matched,any_match_via_iso639_2,matched_sources_label
+bod,Tibetan,False,True,True,True,3,True,FineWeb-2+HuggingFace+CommonVoice
+ces,Czech,False,True,True,True,3,True,FineWeb-2+HuggingFace+CommonVoice
+deu,German,False,True,True,True,3,True,FineWeb-2+HuggingFace+CommonVoice
+fas,Persian,True,True,True,True,3,True,FineWeb-2+HuggingFace+CommonVoice
+fra,French,False,True,True,True,3,True,FineWeb-2+HuggingFace+CommonVoice
+mri,Maori,False,True,True,False,2,True,FineWeb-2+HuggingFace
+msa,Malay (macrolanguage),True,False,True,True,2,True,HuggingFace+CommonVoice
+mya,Burmese,False,True,True,True,3,True,FineWeb-2+HuggingFace+CommonVoice
+sqi,Albanian,True,False,True,True,2,True,HuggingFace+CommonVoice
+zho,Chinese,True,False,True,True,2,True,HuggingFace+CommonVoice
