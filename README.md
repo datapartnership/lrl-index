@@ -1,4 +1,4 @@
-# [Project Name] — Language Data Readiness Index
+# Low Resource Language Data Readiness Index
 
 A reproducible, automatically-updatable index measuring, for every major world language, how much non-synthetic, clearly-licensed text and audio data exists for training generative AI models — and how close each language is to the data thresholds real applications require.
 
