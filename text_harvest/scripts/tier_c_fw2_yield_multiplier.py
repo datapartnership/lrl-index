@@ -1,8 +1,8 @@
 """
-fineweb2_yield_multiplier.py
+tier_c_fw2_yield_multiplier.py
 
-Computes the Tier C "raw -> usable yield" multiplier per language, per
-the Week 3 plan: yield(lang) = clean FineWeb-2 bytes (matched to your
+Computes the Tier C "raw -> usable yield" multiplier per language, and
+follows: yield(lang) = clean FineWeb-2 bytes (matched to your
 existing raw Common Crawl data's crawl coverage) / your raw CC bytes
 over that same matched set of crawls.
 
@@ -47,18 +47,6 @@ DEPENDENCIES / SETUP
 --------------------------------------------------------------------
 pip install pandas requests
 export HF_TOKEN=hf_...   (recommended - higher rate limits on Datasets Server)
-
---------------------------------------------------------------------
-VALIDATED
---------------------------------------------------------------------
-Confirmed against live data: the 500-on-config-conversion failure mode
-was reproduced directly against the real Datasets Server API (config
-abn_Latn) during development of this script. The CLD2/GlotLID coverage
-gap theory (aai_Latn, aak_Latn, aau_Latn, aaz_Latn showing 0 matched
-bytes) is plausible but NOT yet directly confirmed against the raw CC
-CSV - worth a quick grep check the first time this runs for real (see
-conversation) to confirm those codes are genuinely absent from your CC
-data rather than something else going on.
 """
 import time
 from io import StringIO

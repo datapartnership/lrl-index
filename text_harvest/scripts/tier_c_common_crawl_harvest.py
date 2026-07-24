@@ -35,40 +35,11 @@ language percentages shown on their own published statistics site) -
 fetched here via raw.githubusercontent.com. Columns: crawl,
 primary_language, pages, urls, %pages/crawl.
 
-This REPLACES an earlier approach in this script that manually
-downloaded and parsed each crawl's raw stats/part-00000.gz file,
-reconstructing page-share percentages from scratch (handling
-MultiCount value shapes, multi-language combo entries, and primary-
-language attribution). That approach was verified against real data
-but its computed percentages did NOT match Common Crawl's own
-published figures (e.g. computed eng share of 42.17% vs. their
-published 40.82% for CC-MAIN-2026-25) - the exact discrepancy was
-never fully root-caused (ruled out: missing <unknown> denominator
-term, MultiCount index swap; still unclear which other category
-Common Crawl's true denominator draws from). Given a verified,
-exact-match source (this CSV) is directly available instead, this
-script now uses that rather than continuing to debug a
-reconstruction of a number Common Crawl already publishes directly.
-Confirmed exact match against the real published figure: eng,
-CC-MAIN-2026-25 -> 40.8168% from this CSV, matching Common Crawl's
-own site to four decimal places.
-
-Notably, this CSV's <unknown> row (pages where CLD2 could not
+The CSV's <unknown> row (pages where CLD2 could not
 determine a language) is included as its own proper row - it is NOT
 in this script's per-language output (see run_all()), since it isn't
 a real language, but it correctly remains part of the page-share
-denominator, which is why using this file avoids the denominator
-ambiguity the manual reconstruction ran into.
-
---------------------------------------------------------------------
-NO AWS ACCOUNT NEEDED
---------------------------------------------------------------------
-Common Crawl is hosted under the AWS Open Data Sponsorship program,
-and cc-crawl-statistics is a public GitHub repo - every step here is
-reachable via plain public HTTPS endpoints, no auth, no AWS account.
-This is what makes this refreshable: rerun later and it picks up
-only the crawls it doesn't have yet (both languages.csv and the
-crawler stats file are updated as new crawls are released).
+denominator.
 
 --------------------------------------------------------------------
 HOW TOTAL CRAWL BYTES ARE OBTAINED
@@ -91,9 +62,7 @@ uncompressed-content-scale total, not a compressed-WARC-disk-size
 total - worth stating explicitly in any methods write-up.
 
 The only remaining approximation layer in this pipeline is the
-language PAGE SHARE assumption at the very top of this docstring -
-the page-share figures themselves are now exact (pulled directly
-from Common Crawl's own published file), not reconstructed.
+language PAGE SHARE assumption at the very top of this docstring.
 """
 import json
 import time
@@ -275,8 +244,7 @@ def run_all(max_crawls=None):
     languages_df = fetch_languages_csv()
 
     # Crawl list is now derived from languages.csv itself (its own
-    # 'crawl' column) rather than a separate collinfo.json fetch -
-    # one less network call, and guarantees we only ever try crawls
+    # 'crawl' column), and guarantees we only ever try crawls
     # this file actually has language data for.
     crawl_ids = sorted(languages_df["crawl"].unique(), reverse=True)
     print(f"Found {len(crawl_ids)} crawl(s) in languages.csv")
