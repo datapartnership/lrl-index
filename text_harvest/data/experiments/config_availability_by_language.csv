@@ -94,3 +94,6 @@ quranlab/quran,aa,195,arabic-uthmani;arabic-simple-clean;en-pickthall;en-yusufal
 jiaheillu/sovits_audio_preview,aa,1,default,False,,False,True
 zhangxuri/test,aa,1,default,False,,False,True
 neurlang/ipa-lexicon-4v0-7M,aae,1,default,False,,False,True
+facebook/bouquet,aa,290,default;sentence_level;paragraph_level;benchmark;benchmark_sentence_level;benchmark_paragraph_level;Mozilla;Mozilla_sentence_level;Mozilla_paragraph_level;aar_Latn;abl_Latn;afr_Latn;agr_Latn;aiq_Arab;als_Latn,False,,False,False
+omarkamali/wikipedia-monthly,aa,1082,20260101.en;20260101.de;20260101.es;20260101.fr;20260101.ceb;20260101.el;20260101.he;20260101.hu;20260101.ko;20260101.nl;20260101.pl;20260101.pt;20260101.sr;20260101.sv;20260101.tr,False,20260101.aa;20260301.aa;latest.aa,True,False
+rubricreward/mR3-Dataset-100K-EasyToHard,aa,1,default,False,,False,True

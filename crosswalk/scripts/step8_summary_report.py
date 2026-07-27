@@ -5,7 +5,7 @@ Produces a coverage summary across all 3 sources, since eyeballing
 ~7,929 rows directly isn't practical the way it was for the curated
 191-language list.
 
-Updated to also report how many matches across all 3 sources relied
+Reports how many matches across all 3 sources relied
 specifically on the new ISO 639-2 tier - useful for judging whether
 that tier was worth adding, once run against real data.
 """

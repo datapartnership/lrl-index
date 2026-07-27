@@ -61,7 +61,7 @@ def build_macro_to_members_table(mappings_df, iso_ref_df=None, active_only=True)
     # Defensive check: drop any row with a missing macrolanguage_code or
     # member_code before grouping. A blank/NaN value here would otherwise
     # crash sorted() (mixing float NaN with strings) or silently create
-    # a bogus group. Report what's dropped so it's visible, not silent.
+    # a bogus group. Report what's dropped so it's visible.
     before = len(df)
     bad_rows = df[df["macrolanguage_code"].isna() | df["member_code"].isna()]
     if len(bad_rows):

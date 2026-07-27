@@ -1,5 +1,5 @@
 """
-fineweb2_tier_c_tokens.py
+tier_c_tokens.py
 
 Computes final Tier C token estimates per language:
 
@@ -9,27 +9,10 @@ Joins three separate outputs already produced:
   1. tier_c_common_crawl_harvest.py's LATEST_OUTPUT_FILE - one row per
      language, from whichever crawl it most recently appeared in (NOT
      summed across crawls - uses the single latest value).
-  2. fineweb2_yield_multiplier.py's OUTPUT_FILE - one row per language,
+  2. tier_c_fw2_yield_multiplier.py's OUTPUT_FILE - one row per language,
      the yield ratio.
-  3. fineweb2_language_fertility.py's OUTPUT_FILE - one row per
+  3. tier_c_fw2_token_ratio.py's OUTPUT_FILE - one row per
      LANGUAGE (not script), the tokens_per_byte ratio.
-
---------------------------------------------------------------------
-NO MORE SCRIPT-MISMATCH APPROXIMATION
---------------------------------------------------------------------
-The previous version of this script joined against a SCRIPT-level
-token ratio (fineweb2_token_ratio.py's output) and had to approximate
-a "dominant script" for every language to bridge language-level raw
-bytes/yield against script-level token ratios - an extra approximation
-layer, and a fetch of FineWeb-2's full distribution CSV just to
-compute it.
-
-Now that fineweb2_language_fertility.py produces a token ratio
-directly PER LANGUAGE (already correctly handling multi-script
-languages internally via its own multi-subset pooling), this join is
-a straightforward three-way merge on `code` across all three files.
-No script mapping, no dominant-script proxying, no FineWeb-2 CSV
-re-fetch needed here at all.
 
 --------------------------------------------------------------------
 WHAT GETS SKIPPED, AND WHY (see SKIPPED_LOG_FILE)

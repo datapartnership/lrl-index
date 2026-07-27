@@ -7,11 +7,9 @@ Steps 3, 5, 7 only check: "does this ISO code exist in source X?"
 This finds the opposite: codes/labels that EXIST in a source but
 don't correspond to any known ISO entry at all.
 
-Updated: "known codes" now includes ISO 639-2 (both bibliographic and
+"known codes" includes ISO 639-2 (both bibliographic and
 terminological forms) alongside ISO 639-3 and ISO 639-1, consistent
-with the new matching tier added to the join scripts. A source code
-that only matches as someone's ISO 639-2 form is no longer wrongly
-flagged as an orphan.
+with the matching tiers.
 """
 import json
 import pandas as pd

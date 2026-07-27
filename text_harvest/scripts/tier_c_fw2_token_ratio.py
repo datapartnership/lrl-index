@@ -1,26 +1,23 @@
 """
-fineweb2_language_fertility.py
+tier_c_fw2_token_ratio.py
 
-Replaces fineweb2_token_ratio.py's SCRIPT-level approximation (one
-representative language standing in for every language sharing its
-script) with per-LANGUAGE calibration: every language in your curated
-set gets its own sample and its own ratios, no proxying.
+per-LANGUAGE calibration: every language in your curated
+set gets its own sample and its own ratios.
 
 --------------------------------------------------------------------
 TWO DIFFERENT METRICS, BOTH FROM THE SAME SAMPLE
 --------------------------------------------------------------------
 1. tokens_per_byte / bytes_per_token - the actual multiplier used
-   downstream in fineweb2_tier_c_tokens.py's
+   downstream in tier_c_tokens.py's
    tokens = raw_bytes x yield x tokens_per_byte. Raw CC data is
    measured in bytes, so this is the unit-correct conversion factor.
-2. tokens_per_word (fertility) - tokens produced per WORD (naive
-   whitespace split), a standard tokenizer-fertility metric and a much
+2. tokens_per_word (fertility) - tokens produced per WORD (whitespace split),
+   a standard tokenizer-fertility metric and a much
    more direct signal of morphological complexity than bytes_per_token
    alone (an agglutinative language can have totally normal
    bytes_per_token while still fragmenting individual words into many
-   more subword pieces than an analytic language would). Reported for
-   your methods note / cross-language comparison - NOT what feeds the
-   final token count, since "words" aren't a unit raw_bytes can be
+   more subword pieces than an analytic language would). This does NOT
+   feed the final token count, since "words" aren't a unit raw_bytes can be
    converted into without knowing bytes-per-word too.
 
 Both are computed from the same tokenized sample - no extra cost to
@@ -29,7 +26,7 @@ reporting both.
 --------------------------------------------------------------------
 CAVEAT: WORD COUNTING BREAKS FOR NON-SPACE-DELIMITED SCRIPTS
 --------------------------------------------------------------------
-tokens_per_word uses a naive text.split() (whitespace) word count.
+tokens_per_word uses a text.split() (whitespace) word count.
 This is meaningless for scripts that don't delimit words with spaces
 (Japanese, Thai, Khmer, Lao, Myanmar, Han-derived scripts) - "word"
 isn't even a well-defined unit there without a real segmenter, which
@@ -60,9 +57,8 @@ export HF_TOKEN=hf_...   REQUIRED (Datasets Server rate limits +
 --------------------------------------------------------------------
 RUNTIME NOTE
 --------------------------------------------------------------------
-This runs per-LANGUAGE (~122 in your curated set) instead of per-
-SCRIPT (~26) - roughly 4-5x the API calls of the previous version in
-the worst case. Run --test N first. If you hit rate limiting even
+This runs per-LANGUAGE (~122 in curated set) instead of per-
+SCRIPT (~26) - roughly 4-5x the API calls. If you hit rate limiting even
 with HF_TOKEN set, raise BASE_BACKOFF_SECONDS or add a manual sleep
 between languages.
 """

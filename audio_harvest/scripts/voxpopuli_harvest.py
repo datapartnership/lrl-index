@@ -1,32 +1,30 @@
 """
 voxpopuli_harvest.py
 
-Week 4 audio harvest: VoxPopuli. Parses the real "Unlabelled and
-transcribed data" table directly from facebookresearch/voxpopuli's
-README (confirmed live structure - see conversation), rather than an
-API (VoxPopuli doesn't have one - this is a static, versioned table in
-the repo's own documentation).
+Parses the real "Unlabelled and transcribed data" table directly
+from facebookresearch/voxpopuli's README (confirmed live structure
+- see conversation), rather than an API (VoxPopuli doesn't have one -
+this is a static, versioned table in the repo's own documentation).
 
 --------------------------------------------------------------------
-TABLE STRUCTURE (confirmed against the live README)
+TABLE STRUCTURE
 --------------------------------------------------------------------
 | Language | Code | Unlabelled Hours (v1/v2) | Transcribed Hours | Transcribed Speakers | Transcribed Tokens | LM Tokens |
 
 - Code is a 2-letter code, capitalized (e.g. "En", "De") - lowercased
-  here before matching against your crosswalk's ISO 639-1 column.
+  here before matching against the crosswalk's ISO 639-1 column.
 - "Unlabelled Hours (v1/v2)" is a COMPOUND field like "4.5K/24.1K" -
-  v1 and v2 separated by a slash. Per your instruction, only the v2
-  figure is used (untranscribed hours).
-- "Transcribed Hours" is a plain number, no K-suffix in the live data.
+  v1 and v2 separated by a slash. Only the v2 figure is used
+  (untranscribed hours).
+- "Transcribed Hours" is a plain number.
   Some languages show "-" here (Portuguese, Bulgarian, Greek, Latvian,
   Maltese, Swedish, Danish, as of this table's current contents) -
   meaning NO transcribed data exists for that language at all, not
   zero. No transcribed row is produced for these - only untranscribed.
-- A "Total" row exists at the end of the table and is explicitly
-  excluded - it's an aggregate, not a language.
+
 
 --------------------------------------------------------------------
-YOUR RULES FOR THIS SOURCE
+RULES FOR THIS SOURCE
 --------------------------------------------------------------------
 - Unlabelled v2 hours -> untranscribed_hours, transcript_exists=False
 - Transcribed Hours -> transcribed_hours, transcript_exists=True
@@ -35,18 +33,14 @@ YOUR RULES FOR THIS SOURCE
 - who_transcribed: "european parliament human volunteers"
 
 --------------------------------------------------------------------
-JOIN KEY: ISO 639-1 (2-letter), NOT 639-3
+JOIN KEY: ISO 639-1 (2-letter)
 --------------------------------------------------------------------
-VoxPopuli's Code column is ISO 639-1. See the ADAPT block in CONFIG -
-CROSSWALK_ISO2_COL is a guess at your crosswalk's 2-letter-code column
-name and needs confirming. CROSSWALK_ISO3_COL is the canonical output
-code (same convention as the Common Voice harvest).
+VoxPopuli's Code column is ISO 639-1.
 
 --------------------------------------------------------------------
 NO CLEAN VERSION TRACKING
 --------------------------------------------------------------------
-Unlike Common Voice's dated, versioned release JSON files, this table
-is just "whatever's currently in the README" - there's no version
+This table is just "whatever's currently in the README" - there's no version
 number attached to it in a way this script can track automatically.
 retrieval_date (today's date, recorded at run time) is included so at
 least WHEN this was pulled is on record, even though WHICH version of
