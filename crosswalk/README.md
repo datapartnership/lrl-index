@@ -8,7 +8,7 @@ This is the Week 2 deliverable for the project's code crosswalk + curated langua
 
 As of June 2026, the team has decided to leave all non-matches as-is. No substitution, patching, or resolution logic is applied. A language that doesn't match a given source is recorded as `match_status = "no_match"` and left there — final, not pending.
 
-This follows from three recurring mismatch cases identified during development (full detail in `docs/LRL Crosswalk Methodology.docx`):
+This follows from three recurring mismatch cases identified during development (full detail in `docs/Crosswalk Methodology.docx`):
 
 - Macrolanguage tracked, source only has one specific member (e.g. Akan vs. Twi)
 - Regional dialect tracked, source only has the standard/umbrella variety (e.g. Ta'izzi-Adeni Arabic vs. Standard Arabic)
