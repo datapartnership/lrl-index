@@ -27,14 +27,6 @@ sort is the Hub's own default ordering; use --sort to change it (e.g.
 "downloads" for popular datasets specifically).
 
 --------------------------------------------------------------------
-NOT YET VALIDATED AGAINST LIVE DATA
---------------------------------------------------------------------
-No network access to huggingface.co / datasets-server.huggingface.co
-from the environment this was written in. Response parsing IS
-validated against HF's own documented example response - see
-conversation - but the live call itself is untested. Run --n 5 first.
-
---------------------------------------------------------------------
 DEPENDENCIES / SETUP
 --------------------------------------------------------------------
 pip install pandas requests huggingface_hub

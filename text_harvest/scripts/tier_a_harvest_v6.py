@@ -1,14 +1,13 @@
 """
 tier_a_harvest_v6.py
 
-Full successor to tier_a_harvest_v5.py - same crosswalk-driven search,
-same card/provenance/linguality extraction, same field set, but with
-an entirely new THREE-TIER size resolution strategy replacing v5's
+Full crosswalk-driven search with a card/provenance/linguality extraction,
+same field set, but with a new THREE-TIER size resolution strategy replacing v5's
 load_dataset()-based approach (which had real runtime problems on
 large datasets - see conversation).
 
 --------------------------------------------------------------------
-THREE-TIER SIZE RESOLUTION (replaces v5's get_num_rows entirely)
+THREE-TIER SIZE RESOLUTION
 --------------------------------------------------------------------
 TIER 1 - exact, via Datasets Server /size endpoint, NO DOWNLOAD:
   - Monolingual: tries the OVERALL dataset first (no config), falls
@@ -47,10 +46,10 @@ lang_column_used, text_column_used, provenance, synthetic_flag,
 arxiv_ids, doi_ids, manual_review.
 
 --------------------------------------------------------------------
-LINGUALITY / PROVENANCE / MANUAL_REVIEW - unchanged from v5
+LINGUALITY / PROVENANCE / MANUAL_REVIEW
 --------------------------------------------------------------------
-See tier_a_harvest_v5.py for the full rationale - multilinguality tag
-first then language-tag count; 3-category README keyword heuristic;
+multilinguality tag first then language-tag count;
+3-category README keyword heuristic;
 manual_review = "404 - need to grant access to dataset" (access
 issues, checked first) or "check unclear provenance" (resolved size
 but unclear provenance).
@@ -63,17 +62,6 @@ FOUR OUTPUT FILES, MUTUALLY EXCLUSIVE
 3. EVERYTHING_ELSE_FILE - Tier 3 residual: no per-language config AND
    not resolvable via Tier 2 either - regardless of provenance.
 4. SKIPPED_NON_TEXT_FILE - modality explicitly stated, no "text" present.
-
---------------------------------------------------------------------
-NOT YET VALIDATED AGAINST LIVE DATA
---------------------------------------------------------------------
-No network access to huggingface.co / datasets-server.huggingface.co
-from the environment this was written in. The /size and /parquet
-endpoint response parsing, and the DuckDB-over-HTTP query, are the
-least-tested pieces here - the DuckDB query STRING and the
-octet_length(encode()) byte-counting fix ARE validated against a real
-local Parquet file (see conversation), but the actual remote-URL fetch
-via httpfs is not. Run --test 5 first.
 
 --------------------------------------------------------------------
 DEPENDENCIES / SETUP
