@@ -72,7 +72,7 @@ SKIPPED_LOG_FILE = "../data/audio/processed/voxpopuli_skipped_codes.csv"
 SOURCE_TYPE = "european parliament recording"
 WHO_TRANSCRIBED = "european parliament human volunteers"
 LICENSE = "CC0-1.0"
-LICENSE_TIER = "A"
+
 
 HOURS_VALUE_PATTERN = re.compile(r"^([\d.]+)(K)?$", re.IGNORECASE)
 
@@ -201,7 +201,7 @@ def main():
             "iso_639_3": iso3, "vp_code": row["code"],
             "source": "voxpopuli", "category": "untranscribed",
             "hours": row["unlabelled_v2_hours"],
-            "license_tier": LICENSE_TIER, "license": LICENSE,
+             "license": LICENSE,
             "source_type": SOURCE_TYPE, "who_transcribed": WHO_TRANSCRIBED,
             "transcript_exists": False,
         })
@@ -211,7 +211,7 @@ def main():
             "iso_639_3": iso3, "vp_code": row["code"],
             "source": "voxpopuli", "category": "transcribed",
             "hours": row["transcribed_hours"],
-            "license_tier": LICENSE_TIER, "license": LICENSE,
+             "license": LICENSE,
             "source_type": SOURCE_TYPE, "who_transcribed": WHO_TRANSCRIBED,
             "transcript_exists": True,
         })
@@ -227,7 +227,7 @@ def main():
 
     FINAL_COLUMNS = [
         "iso_639_3", "vp_code", "source", "category", "hours",
-        "license_tier", "license", "source_type", "who_transcribed", "transcript_exists",
+        "license", "source_type", "who_transcribed", "transcript_exists",
     ]
     df = pd.DataFrame(output_rows)[FINAL_COLUMNS].sort_values(["iso_639_3", "category"])
     Path(OUTPUT_FILE).parent.mkdir(parents=True, exist_ok=True)

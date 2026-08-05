@@ -15,7 +15,7 @@ per-language config, that's the argument for Tier 2; if most do,
 Tier 2 may be a smaller marginal gain than expected.
 
 --------------------------------------------------------------------
-MATCHING LOGIC - matches tier_a_harvest_v5.py/v6.py exactly
+MATCHING LOGIC - matches tier_a_harvest_v6.py exactly
 --------------------------------------------------------------------
 UPDATED from an earlier version of this script, which only checked
 for the code as a PREFIX ("^code[_-./]"). That would have MISSED
