@@ -1,5 +1,5 @@
 """
-Lingua Libre duration harvester
+lingua_libre_harvest.py
 ================================
 
 Pulls every audio file title for each language in the language crosswalk
