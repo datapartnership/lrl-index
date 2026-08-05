@@ -1,5 +1,5 @@
 """
-Lingua Libre duration summarizer
+lingua_libre_duration_summing.py
 =================================
 
 Reads the per-recording harvest CSV (output of
